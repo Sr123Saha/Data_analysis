@@ -24,10 +24,10 @@ def fetch_data_with_retries(parser, page, retries=3):
             print(f"Ошибка при запросе страницы {page}: {e}. Попытка {attempt + 1} из {retries}")
             time.sleep(random.uniform(8, 16))
     return []
-moscow_parser = cianparser.CianParser(location="Егорьевск")
+moscow_parser = cianparser.CianParser(location="лобня")
 all_flats = []
 total_flats = 0
-max_flats = 100000 
+max_flats = 1000000 
 output_file = "kv_db.csv"
 with open(output_file, 'a', newline='', encoding='utf-8') as csvfile:
     pass
