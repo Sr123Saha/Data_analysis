@@ -4,7 +4,7 @@ import time
 import random
 
 def save_to_csv(flats_data, filename="flats_data.csv", mode='a'):
-    if mode == 'w':
+    if mode == 'a':
         keys = flats_data[0].keys()
         with open(filename, mode, newline='', encoding='utf-8') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=keys)
@@ -22,14 +22,14 @@ def fetch_data_with_retries(parser, page, retries=3):
             return data
         except Exception as e:
             print(f"Ошибка при запросе страницы {page}: {e}. Попытка {attempt + 1} из {retries}")
-            time.sleep(random.uniform(10, 16))
+            time.sleep(random.uniform(8, 16))
     return []
-moscow_parser = cianparser.CianParser(location="Балашиха")
+moscow_parser = cianparser.CianParser(location="Видное")
 all_flats = []
 total_flats = 0
 max_flats = 100000 
 output_file = "kv_db.csv"
-with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
+with open(output_file, 'a', newline='', encoding='utf-8') as csvfile:
     pass
 for page in range(1, 1000):
     data = fetch_data_with_retries(moscow_parser, page)
