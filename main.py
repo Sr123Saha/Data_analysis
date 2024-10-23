@@ -1,44 +1,46 @@
+# 2 ветка странно себя ведет будем тут тестить чтото делать смотреть и короче все воэ это вот
+
 import cianparser
 import csv
 import time
 import random
 
-def save_to_csv(flats_data, filename="flats_data.csv", mode='a'):
-    if mode == 'a':
-        keys = flats_data[0].keys()
-        with open(filename, mode, newline='', encoding='utf-8') as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=keys)
-            writer.writeheader()
-            writer.writerows(flats_data)
-    else:
-        with open(filename, mode, newline='', encoding='utf-8') as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=flats_data[0].keys())
-            writer.writerows(flats_data)
+def save_to_csv(flats_data, filename="zxc.csv"):
+    keys = flats_data[0].keys()
+    with open(filename, 'a', newline='', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=keys)
+        writer.writerows(flats_data)
 
-def fetch_data_with_retries(parser, page, retries=3):
-    for attempt in range(retries):
-        try:
-            data = parser.get_flats(deal_type="sale", rooms=(0), additional_settings={"start_page": page, "end_page": page})
-            return data
-        except Exception as e:
-            print(f"Ошибка при запросе страницы {page}: {e}. Попытка {attempt + 1} из {retries}")
-            time.sleep(random.uniform(8, 16))
-    return []
-moscow_parser = cianparser.CianParser(location="Долгопрудный")
-all_flats = []
-total_flats = 0
-max_flats = 1000000 
-output_file = "kv_db.csv"
-with open(output_file, 'a', newline='', encoding='utf-8') as csvfile:
-    pass
+def fetch_flats(parser, page):
+    try:
+        data = parser.get_flats(deal_type="sale", rooms=(1), additional_settings={"start_page": page, "end_page": page})
+        for flat in data:
+            flat.pop('url', None)
+            flat.pop('author', None)
+            flat.pop('author_type', None)
+            
+
+            metro_info = flat.get('metro', [{}])[0]
+            flat['nearest_metro'] = metro_info.get('name', 'Нет информации')
+            flat['time_to_metro'] = metro_info.get('time', 'Не указано')
+            flat['total_floors'] = flat.get('total_floors', 'Не указано')
+            flat['floor'] = flat.get('floor', 'Не указано')
+            flat['square'] = flat.get('square', 'Не указано')
+            flat['kitchen_square'] = flat.get('kitchen_square', 'Не указано')
+            flat['price'] = flat.get('price', 'Не указано')
+            
+        return data
+    except Exception as e:
+        print(f"Ошибка на странице {page}: {e}")
+        return []
+
+parser = cianparser.CianParser(location="Долгопрудный")
+
 for page in range(1, 1000):
-    data = fetch_data_with_retries(moscow_parser, page)
-    if not data:
-        break 
-    all_flats.extend(data)
-    total_flats += len(data)
-    save_to_csv(data, filename=output_file, mode='a')   
-    time.sleep(random.uniform(3, 6))
-    if total_flats >= max_flats:
+    flats = fetch_flats(parser, page)
+    if not flats:
         break
+    save_to_csv(flats)
+    time.sleep(random.uniform(3, 6))
 
+print("Парсинг завершён.")
