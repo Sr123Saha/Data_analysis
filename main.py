@@ -24,7 +24,7 @@ def fetch_data_with_retries(parser, page, retries=3):
             print(f"Ошибка при запросе страницы {page}: {e}. Попытка {attempt + 1} из {retries}")
             time.sleep(random.uniform(8, 16))
     return []
-moscow_parser = cianparser.CianParser(location="лобня")
+moscow_parser = cianparser.CianParser(location="можайск")
 all_flats = []
 total_flats = 0
 max_flats = 1000000 

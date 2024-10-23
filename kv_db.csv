@@ -9609,3 +9609,873 @@ Est-a-Tet Агент,real_estate_agent,https://www.cian.ru/sale/flat/308886354/,
 Альянс,developer,https://rostov.cian.ru/sale/flat/293649137/,лобня,sale,flat,2,7,2,77.88,-1,0,28815600,Кировский,Социалистическая ,118,,Дом-резиденция Собрание
 Гранд Недвижимость,real_estate_agent,https://sochi.cian.ru/sale/flat/298256595/,лобня,sale,flat,2,4,2,70.0,-1,0,9900000,Лазаревский,Львовская ,70Ак3,,
 OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/308760982/,лобня,sale,flat,5,24,1,39.1,-1,0,19800000,Фили-Давыдково, Герасима Курина,18,Славянский бульвар,
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Таврида Девелопмент,developer,https://krym.cian.ru/sale/flat/308884460/,долгопрудный,sale,flat,2,20,2,46.3,-1,0,18983000,,,,,Новая Ливадия
+ID 12530791,unknown,https://www.cian.ru/sale/flat/303761506/,долгопрудный,sale,flat,38,78,1,58.0,-1,0,58500000,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити,NEVA TOWERS
+PROНЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/sale/flat/308789447/,долгопрудный,sale,flat,11,12,1,33.5,-1,0,8000000,Чертаново Южное,3-й Дорожный проезд,6К1,Улица Академика Янгеля,
+Дипломат,developer,https://krym.cian.ru/sale/flat/292125018/,долгопрудный,sale,flat,2,8,2,66.0,-1,0,22622160,,,,,Резиденция Дипломат
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308553708/,долгопрудный,sale,flat,9,12,2,88.0,-1,0,59350000,Тверской,2-я Брестская ,6,Маяковская,Резиденция Тверская
+ID 123328834,homeowner,https://www.cian.ru/sale/flat/308676848/,долгопрудный,sale,flat,6,14,1,36.0,-1,0,13700000,Перово,Мартеновская ,11/12,Новогиреево,
+Таврида Девелопмент,developer,https://krym.cian.ru/sale/flat/304428700/,долгопрудный,sale,flat,2,20,1,25.04,-1,0,10141200,,,,,Новая Ливадия
+hoomie,real_estate_agent,https://www.cian.ru/sale/flat/305679467/,долгопрудный,sale,flat,4,20,2,64.29,-1,0,24166611,Даниловский,Автозаводская ,26,Тульская,FORST
+do A.S.A.P.,real_estate_agent,https://www.cian.ru/sale/flat/306451958/,долгопрудный,sale,flat,3,12,2,37.0,-1,0,9500000,Западное Дегунино,Коровинское шоссе,9К1,Селигерская,
+Дипломат,developer,https://krym.cian.ru/sale/flat/292124957/,долгопрудный,sale,flat,2,5,1,65.7,-1,0,24860880,,,,,Резиденция Дипломат
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308553460/,долгопрудный,sale,flat,9,12,2,99.0,-1,0,96750000,Тверской,2-я Брестская ,6,Маяковская,Резиденция Тверская
+Светлана Анисимова,realtor,https://www.cian.ru/sale/flat/308703083/,долгопрудный,sale,flat,21,31,2,55.7,-1,0,21990000,Богородское,Тюменский проезд,3к1,Бульвар Рокоссовского,Преображение
+Неометрия,developer,https://sochi.cian.ru/sale/flat/302445049/,долгопрудный,sale,flat,2,10,2,33.0,-1,0,31491900,Адлерский,Адлер жилрайон,,,Гостиничный комплекс 
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/306566143/,долгопрудный,sale,flat,6,7,2,96.0,-1,0,260000000,Хамовники, Льва Толстого,23к7с3,Парк Культуры,
+Солнечный Сочи,real_estate_agent,https://sochi.cian.ru/sale/flat/308303850/,долгопрудный,sale,flat,24,26,2,105.0,-1,0,8000000,Хостинский,Курортный проспект,105,,
+Сармат,developer,https://krasnodar.cian.ru/sale/flat/307540476/,долгопрудный,sale,flat,2,16,2,64.3,-1,0,6751500,Прикубанский, Западный обход,65/1,,Cармат
+ID 10601,realtor,https://www.cian.ru/sale/flat/307801822/,долгопрудный,sale,flat,5,5,2,42.3,-1,0,28300000,Тверской,Тверская ,27С1,Маяковская,
+Mikhail Uger,realtor,https://www.cian.ru/sale/flat/304113525/,долгопрудный,sale,flat,17,25,1,36.8,-1,0,9900000,Чертаново Северное,Северное Чертаново мкр,7кБ,Чертановская,
+Интеллект,developer,https://krym.cian.ru/sale/flat/306043753/,долгопрудный,sale,flat,5,13,2,36.33,-1,0,12249111,,,,,Парковая Резиденция
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308343895/,долгопрудный,sale,flat,8,29,2,69.1,-1,0,31095000,Якиманка,Мытная ,40к3,Шаболовская,Sky House
+Диалог Риэлт,real_estate_agent,https://lyubertsy.cian.ru/sale/flat/308678545/,долгопрудный,sale,flat,4,4,1,31.9,-1,0,4000000,Октябрьский рп, Комсомольская,11,,
+Неометрия,developer,https://sochi.cian.ru/sale/flat/302444728/,долгопрудный,sale,flat,8,10,1,22.2,-1,0,26140500,Адлерский,Адлер жилрайон,,,Гостиничный комплекс 
+ID 85604823,unknown,https://www.cian.ru/sale/flat/308497818/,долгопрудный,sale,flat,16,41,2,51.0,-1,0,34000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+ID 98396578,homeowner,https://www.cian.ru/sale/flat/308733860/,долгопрудный,sale,flat,1,9,2,45.0,-1,0,17800000,Красносельский,Протопоповский переулок,38,Площадь трёх вокзалов,
+Сармат,developer,https://krasnodar.cian.ru/sale/flat/307540724/,долгопрудный,sale,flat,2,16,1,37.9,-1,0,5306000,Прикубанский, Западный обход,65/1,,Cармат
+ID 85604823,unknown,https://www.cian.ru/sale/flat/305768574/,долгопрудный,sale,flat,6,42,1,42.0,-1,0,29000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+Никита Гаврилов,realtor,https://www.cian.ru/sale/flat/308711044/,долгопрудный,sale,flat,8,22,1,40.0,-1,0,13290000,Марьино, Верхние Поля,36К2,Люблино,
+Интеллект,developer,https://krym.cian.ru/sale/flat/295983885/,долгопрудный,sale,flat,2,13,1,38.3,-1,0,12928244,,,,,Парковая Резиденция
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+ID 85604823,unknown,https://www.cian.ru/sale/flat/307014462/,долгопрудный,sale,flat,6,42,1,42.0,-1,0,29000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+GRAND ESTATE - Премиальная недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/305111360/,долгопрудный,sale,flat,4,16,2,37.0,-1,0,19000000,Пресненский,Красногвардейский бульвар,5К2,Москва-Сити,
+Интеллект,developer,https://krym.cian.ru/sale/flat/291497607/,долгопрудный,sale,flat,2,20,2,49.18,-1,0,12718487,,,,,Крымская Резиденция
+SHOW ME,real_estate_agent,https://www.cian.ru/sale/flat/272003903/,долгопрудный,sale,flat,5,6,2,43.0,-1,0,26900000,Беговой, 3-я Ямского Поля,9,Белорусская,Art Residence
+Залму Писарук,realtor,https://www.cian.ru/sale/flat/308532820/,долгопрудный,sale,flat,7,12,2,55.0,-1,0,13400000,Бирюлево Восточное,Лебедянская ,4,,
+Эталон,developer,https://ekb.cian.ru/sale/flat/308412109/,долгопрудный,sale,flat,3,5,2,40.69,-1,0,5821699,,,,,Балтым-Парк
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/301258691/,долгопрудный,sale,flat,2,21,2,57.23,-1,0,59000000,Пресненский,2-я Звенигородская ,16,Улица 1905 года,Lucky
+Зульфия  Галяутдинова,realtor,https://www.cian.ru/sale/flat/308225788/,долгопрудный,sale,flat,13,14,2,61.0,-1,0,29000000,Гагаринский,Университетский проспект,6К2,Воробьёвы горы,
+Перспектива,developer,https://krym.cian.ru/sale/flat/305496512/,долгопрудный,sale,flat,3,8,2,76.9,-1,0,23000000,Восход пгт, Наташинская,2Ж,,Монако
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/307822693/,долгопрудный,sale,flat,9,18,2,66.4,-1,0,69700000,Хамовники,,,Воробьёвы горы,Коллекция Лужники ЖК
+ЛЮДИ ДЛЯ ЛЮДЕЙ,real_estate_agent,https://spb.cian.ru/sale/flat/305602913/,долгопрудный,sale,flat,4,7,1,31.1,-1,0,6000000,Калининский,проспект Науки,40,Академическая,
+СК10,developer,https://rostov.cian.ru/sale/flat/289997272/,долгопрудный,sale,flat,19,25,2,38.54,-1,0,5140000,Советский,,,,Малина парк
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/298050405/,долгопрудный,sale,flat,7,9,2,108.3,-1,0,154000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+ТСН Владис,real_estate_agent,https://balashikha.cian.ru/sale/flat/303023571/,долгопрудный,sale,flat,4,5,1,30.3,-1,0,3899000,,шоссе Энтузиастов,57,Салтыковская,
+РКС Девелопмент,developer,https://krasnodar.cian.ru/sale/flat/306944508/,долгопрудный,sale,flat,2,7,2,56.5,-1,0,13627800,,,,,Anapolis Residence
+hoomie,real_estate_agent,https://www.cian.ru/sale/flat/305679729/,долгопрудный,sale,flat,9,20,2,59.0,-1,0,25370000,Даниловский,,,Тульская,Форст ЖК
+ID 74991203,homeowner,https://www.cian.ru/sale/flat/308079051/,долгопрудный,sale,flat,3,24,2,53.2,-1,0,19570000,Донской,Новоданиловская набережная,8к2,Верхние котлы,Новоданиловская 8
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/306297919/,долгопрудный,sale,flat,2,18,2,49.5,-1,0,7730000,Верх-Исетский,,,Площадь 1905 года,Русь XXI ЖК
+White and Broughton,real_estate_agent,https://www.cian.ru/sale/flat/299890518/,долгопрудный,sale,flat,9,40,1,41.5,-1,0,32000000,Хорошевский,Ленинградский проспект,37/4,ЦСКА,Прайм Парк
+Святослав Пивненко,realtor,https://spb.cian.ru/sale/flat/307823563/,долгопрудный,sale,flat,4,17,2,74.0,-1,0,17300000,Приморский,аллея Поликарпова,6к1,Пионерская,
+Интеллект,developer,https://krym.cian.ru/sale/flat/306356337/,долгопрудный,sale,flat,7,20,1,24.84,-1,0,8609974,,,,,Крымская Резиденция
+Century 21 Street Realty,real_estate_agent,https://www.cian.ru/sale/flat/304519685/,долгопрудный,sale,flat,39,41,2,56.9,-1,0,39000000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+ID 7150714,homeowner,https://spb.cian.ru/sale/flat/308695839/,долгопрудный,sale,flat,2,5,2,46.0,-1,0,18000000,Петроградский,Каменноостровский проспект,64С,Петроградская,
+Эталон,developer,https://ekb.cian.ru/sale/flat/308412177/,долгопрудный,sale,flat,2,5,1,38.08,-1,0,5498522,,,,,Балтым-Парк
+PEOPLE,real_estate_agent,https://www.cian.ru/sale/flat/305909779/,долгопрудный,sale,flat,6,10,2,178.1,-1,0,150000000,Тверской,Большая Грузинская ,69,Белорусская,Четыре Ветра
+ID 47664046,unknown,https://www.cian.ru/sale/flat/308204535/,долгопрудный,sale,flat,5,17,2,65.2,-1,0,21500000,Черемушки,Профсоюзная ,30К2,Профсоюзная,
+Перспектива,developer,https://krym.cian.ru/sale/flat/305496510/,долгопрудный,sale,flat,2,8,1,70.3,-1,0,16000000,Восход пгт, Наташинская,2Ж,,Монако
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/305274218/,долгопрудный,sale,flat,2,5,2,84.63,-1,0,139639500,Басманный,Потаповский переулок,6С1,Чистые пруды,Абрикосов
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+OPN PARTNER,real_estate_agent,https://krasnogorsk.cian.ru/sale/flat/299929933/,долгопрудный,sale,flat,2,7,2,55.0,-1,0,8899000,с. Николо-Урюпино, Полковника Глазунова,15,,Лесобережный
+СК10,developer,https://rostov.cian.ru/sale/flat/303045403/,долгопрудный,sale,flat,24,25,1,33.37,-1,0,4110000,Советский,,,,Малина парк
+Point Estate Город,real_estate_agent,https://www.cian.ru/sale/flat/307575540/,долгопрудный,sale,flat,4,21,2,54.0,-1,0,59000000,Пресненский,2-я Звенигородская ,16,Улица 1905 года,Lucky
+ID 95814020,realtor,https://www.cian.ru/sale/flat/308490853/,долгопрудный,sale,flat,12,17,2,71.0,-1,0,17500000,, Никитина,11к4,Рассказовка,
+РКС Девелопмент,developer,https://krasnodar.cian.ru/sale/flat/308252390/,долгопрудный,sale,flat,2,7,1,41.7,-1,0,10491720,,,,,Anapolis Residence
+White and Broughton,real_estate_agent,https://www.cian.ru/sale/flat/301763282/,долгопрудный,sale,flat,39,41,2,56.9,-1,0,40000000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+ID 116114838,homeowner,https://www.cian.ru/sale/flat/308719974/,долгопрудный,sale,flat,2,11,2,42.4,-1,0,12850000,,бульвар Веласкеса,7к1,Ольховая,
+СК10,developer,https://rostov.cian.ru/sale/flat/304874044/,долгопрудный,sale,flat,15,24,2,52.95,-1,0,9160000,Кировский,Красноармейская ,250,,Космос
+White and Broughton,real_estate_agent,https://www.cian.ru/sale/flat/301550653/,долгопрудный,sale,flat,13,41,1,41.5,-1,0,31000000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+Юрий Шадеко,realtor,https://spb.cian.ru/sale/flat/307347913/,долгопрудный,sale,flat,10,17,1,45.0,-1,0,13900000,Приморский,переулок Ипподромный,3к1,Пионерская,Приморский квартал
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/306297927/,долгопрудный,sale,flat,3,18,1,34.1,-1,0,5901000,Верх-Исетский,,,Площадь 1905 года,Русь XXI ЖК
+Contact Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/303027445/,долгопрудный,sale,flat,3,20,1,59.0,-1,0,61800000,Пресненский, Костикова,4к6,Улица 1905 года,Lucky
+Этажи Москва,real_estate_agent,https://lyubertsy.cian.ru/sale/flat/308675651/,долгопрудный,sale,flat,1,3,1,33.6,-1,0,4800000,,,,,
+СЗ Феникс,developer,https://rostov.cian.ru/sale/flat/305377450/,долгопрудный,sale,flat,15,19,2,42.1,-1,0,8129999,Советский,проспект Стачки,198В,,Times
+ID 52825739,homeowner,https://www.cian.ru/sale/flat/307814530/,долгопрудный,sale,flat,7,15,2,46.5,-1,0,23900000,Хорошевский,Ходынский бульвар,20А,ЦСКА,Лайнер
+ID 17498307,homeowner,https://www.cian.ru/sale/flat/308837547/,долгопрудный,sale,flat,5,10,1,40.4,-1,0,28900000,Дорогомилово,Кутузовский проспект,30,Кутузовская,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/305791387/,долгопрудный,sale,flat,6,23,2,52.3,-1,0,6892000,Кировский,,,Машиностроителей,Основинские кварталы ЖК
+ZIP Realty,real_estate_agent,https://www.cian.ru/sale/flat/303387198/,долгопрудный,sale,flat,18,22,1,30.0,-1,0,11700000,,бульвар Андрея Тарковского,11,Рассказовка,Рассказово
+ID 81467774,homeowner,https://www.cian.ru/sale/flat/306073042/,долгопрудный,sale,flat,3,17,1,38.0,-1,0,13700000,Свиблово,Вересковая ,1К1,Свиблово,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/301967067/,долгопрудный,sale,flat,22,28,2,48.1,-1,0,11409000,Центр, Свердлова,10,Динамо,Екатерининский парк
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/308872981/,долгопрудный,sale,flat,37,37,2,48.0,-1,0,42500000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+Ю-Питер,real_estate_agent,https://www.cian.ru/sale/flat/308901152/,долгопрудный,sale,flat,14,16,2,50.5,-1,0,14000000,Отрадное, Бестужевых,13,Отрадное,
+ЕкатеринодарИнвест-Строй,developer,https://krasnodar.cian.ru/sale/flat/294666388/,долгопрудный,sale,flat,4,24,2,57.34,-1,0,6375061,мкр. РИП,Российская ,,,Гулливер
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/303534103/,долгопрудный,sale,flat,16,25,1,34.0,-1,0,9700000,,,7,Ольховая,
+Доступный дом,real_estate_agent,https://www.cian.ru/sale/flat/293926786/,долгопрудный,sale,flat,3,17,1,35.4,-1,0,14990000,, Эдварда Грига,15,Потапово,
+ЭНКО,representative_developer,https://tyumen.cian.ru/sale/flat/301181335/,долгопрудный,sale,flat,2,12,2,52.68,-1,0,6460000,д. Патрушева, Петра Ершова,12,,ЖР 
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/302177521/,долгопрудный,sale,flat,3,15,2,58.54,-1,0,61000000,Пресненский, Костикова,4к4,Улица 1905 года,Lucky
+Сулейман Махаури,realtor,https://krasnogorsk.cian.ru/sale/flat/294741975/,долгопрудный,sale,flat,16,24,2,82.0,-1,0,9700000,,бульвар Космонавтов,1,Опалиха,Изумрудные холмы
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+ЕкатеринодарИнвест-Строй,developer,https://krasnodar.cian.ru/sale/flat/294669694/,долгопрудный,sale,flat,2,15,2,58.65,-1,0,12742886,,,,,Екатерининский парк
+PEOPLE,real_estate_agent,https://www.cian.ru/sale/flat/308069817/,долгопрудный,sale,flat,4,21,2,54.0,-1,0,58000000,Пресненский,2-я Звенигородская ,14,Улица 1905 года,Lucky
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/304572948/,долгопрудный,sale,flat,3,14,1,39.0,-1,0,9300000,Ново-Переделкино, Шолохова,2,Новопеределкино,
+СЗ Феникс,developer,https://rostov.cian.ru/sale/flat/293615913/,долгопрудный,sale,flat,4,13,1,47.1,-1,0,8379202,Советский,,,,Таймс ЖК
+PEOPLE,real_estate_agent,https://www.cian.ru/sale/flat/306883426/,долгопрудный,sale,flat,2,21,2,71.9,-1,0,65000000,Пресненский, Костикова,4к1,Улица 1905 года,Lucky
+Мой мир,real_estate_agent,https://omsk.cian.ru/sale/flat/308452973/,долгопрудный,sale,flat,3,9,1,36.9,-1,0,3800000,мкр. 6-й, Степанца,12,,
+СК10,developer,https://rostov.cian.ru/sale/flat/306489398/,долгопрудный,sale,flat,2,9,2,40.15,-1,0,5230000,Железнодорожный,бульвар Платова,14,,Сезоны
+PEOPLE,real_estate_agent,https://www.cian.ru/sale/flat/280614853/,долгопрудный,sale,flat,3,15,2,58.54,-1,0,61000000,Пресненский, Костикова,4к4,Улица 1905 года,Lucky
+House Estate,real_estate_agent,https://spb.cian.ru/sale/flat/307440952/,долгопрудный,sale,flat,3,5,2,67.2,-1,0,28500000,Петроградский,Зверинская ,7-9,Спортивная,
+СК10,developer,https://rostov.cian.ru/sale/flat/297424924/,долгопрудный,sale,flat,23,25,2,38.68,-1,0,5440000,Октябрьский,,,,Гринсайд ЖК
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/301565559/,долгопрудный,sale,flat,5,21,2,117.0,-1,0,115000000,Пресненский,2-я Звенигородская ,16,Улица 1905 года,Lucky
+BARNES International Realty,real_estate_agent,https://www.cian.ru/sale/flat/294511036/,долгопрудный,sale,flat,4,23,2,90.6,-1,0,45000000,Хорошевский, Гризодубовой,2,ЦСКА,Гранд-парк
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/306899926/,долгопрудный,sale,flat,14,23,1,34.0,-1,0,4893000,Кировский,,,Машиностроителей,Основинские кварталы ЖК
+ZAPAD REALTY - офис Маршала Жукова,real_estate_agent,https://www.cian.ru/sale/flat/308901319/,долгопрудный,sale,flat,59,85,2,90.3,-1,0,75000000,Пресненский,1-й Красногвардейский проезд,21с1,Деловой центр,
+Иван Музалевский,realtor,https://balashikha.cian.ru/sale/flat/301875482/,долгопрудный,sale,flat,7,16,1,42.3,-1,0,7250000,, Юбилейная,4к5,Железнодорожная,
+СК10,developer,https://rostov.cian.ru/sale/flat/301539762/,долгопрудный,sale,flat,17,25,2,40.82,-1,0,6370000,Кировский,,,,Культура ЖК
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308896864/,долгопрудный,sale,flat,10,32,2,64.4,-1,0,51000000,Дорогомилово,Поклонная ,9,Поклонная,Поклонная 9
+MR Group,developer,https://www.cian.ru/sale/flat/306614015/,долгопрудный,sale,flat,3,28,2,60.6,-1,0,22803806,Даниловский,,,Павелецкая,Павелецкая Сити ЖК
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/302623378/,долгопрудный,sale,flat,2,29,1,34.6,-1,0,8557000,Центр, Свердлова,12,Динамо,Екатерининский парк
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308888399/,долгопрудный,sale,flat,5,21,2,64.76,-1,0,68500000,Пресненский, Костикова,4к1,Улица 1905 года,Lucky
+CENTURY 21 Столичная недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/308852081/,долгопрудный,sale,flat,4,20,2,71.0,-1,0,14250000,, Барышевская Роща,12,Щербинка,Прима-Парк
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/298036722/,долгопрудный,sale,flat,3,24,2,83.8,-1,0,17350000,Центр, Большакова,66,Геологическая,RedRock
+Smolenka Estate,real_estate_agent,https://www.cian.ru/sale/flat/306454598/,долгопрудный,sale,flat,8,9,2,60.7,-1,0,74100000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+ID 285016,homeowner,https://www.cian.ru/sale/flat/307877352/,долгопрудный,sale,flat,19,21,2,51.0,-1,0,26600000,Очаково-Матвеевское, Малая Очаковская,4Ак1,Озёрная,Мичуринский парк
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/298038341/,долгопрудный,sale,flat,3,16,2,78.1,-1,0,30792000,Центр, Февральской Революции,21,Динамо,19/05
+Анна Журавлева,realtor,https://www.cian.ru/sale/flat/308958260/,долгопрудный,sale,flat,2,9,2,43.5,-1,0,10000000,Печатники,Шоссейная ,8,Печатники,
+НЕДВИЖИМОСТЬ 23,real_estate_agent,https://sochi.cian.ru/sale/flat/307942684/,долгопрудный,sale,flat,7,9,2,56.0,-1,0,12170000,Центральный, Навагинская,12,,
+ЕкатеринодарИнвест-Строй,developer,https://krasnodar.cian.ru/sale/flat/294667073/,долгопрудный,sale,flat,2,24,1,40.58,-1,0,5264038,мкр. РИП,Российская ,,,Гулливер
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+ID 148596,homeowner,https://www.cian.ru/sale/flat/268629674/,долгопрудный,sale,flat,10,10,1,38.5,-1,0,11280000,Выхино-Жулебино,Жулебинский бульвар,6/11,Лермонтовский проспект,
+Альберт Аванесян,realtor,https://www.cian.ru/sale/flat/307156518/,долгопрудный,sale,flat,5,13,2,59.8,-1,0,16350000,Марьино,Новомарьинская ,4,Марьино,
+НВМ,developer,https://krasnodar.cian.ru/sale/flat/307997253/,долгопрудный,sale,flat,2,18,2,51.71,-1,0,7756500,,,,,Народные Кварталы
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/307113534/,долгопрудный,sale,flat,16,19,2,45.8,-1,0,32000000,Беговой,Ленинградский проспект,29к1,Динамо,Царская площадь
+Гранит Инвест,real_estate_agent,https://spb.cian.ru/sale/flat/304880706/,долгопрудный,sale,flat,4,14,2,57.7,-1,0,15290500,Василеостровский,набережная Реки Смоленки,35к1,Приморская,Айно
+Садовое кольцо,developer,https://kazan.cian.ru/sale/flat/308962890/,долгопрудный,sale,flat,10,18,2,61.08,-1,0,18791023,Ново-Савиновский,,,Козья слобода,Савин Фемили ЖК
+Недвижимость у моря,real_estate_agent,https://sochi.cian.ru/sale/flat/308900987/,долгопрудный,sale,flat,7,8,2,70.0,-1,0,27000000,Адлерский, Просвещения,118/1,,
+Солнечный Сочи,real_estate_agent,https://sochi.cian.ru/sale/flat/308223929/,долгопрудный,sale,flat,10,16,1,63.0,-1,0,12500000,Центральный, Парковая,5,,
+ИНСИТИ девелопмент,developer,https://krasnodar.cian.ru/sale/flat/308798014/,долгопрудный,sale,flat,13,24,2,53.3,-1,0,7757195,,,,,Микрорайон Любимово
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/299515958/,долгопрудный,sale,flat,6,6,2,65.8,-1,0,46999999,Даниловский,,,Павелецкая,Опус ЖК
+Екатерина Боброва,realtor,https://www.cian.ru/sale/flat/308798471/,долгопрудный,sale,flat,9,9,2,50.0,-1,0,17500000,Северное Тушино, Фомичевой,3С1,Сходненская,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/299462077/,долгопрудный,sale,flat,24,25,2,56.9,-1,0,10239300,Чкаловский, 8 Марта,204Д,Чкаловская,Ботаника LIFE
+Владислав Карпов,realtor,https://www.cian.ru/sale/flat/308833064/,долгопрудный,sale,flat,15,28,2,64.5,-1,0,49000000,Раменки,Винницкая ,8к2,Раменки,Настоящее
+Webster,real_estate_agent,https://www.cian.ru/sale/flat/307945716/,долгопрудный,sale,flat,3,8,2,55.5,-1,0,24000000,Ломоносовский, Строителей,7К1,Университет,
+ЕкатеринодарИнвест-Строй,developer,https://krasnodar.cian.ru/sale/flat/294670406/,долгопрудный,sale,flat,2,17,1,35.6,-1,0,8116800,,,,,Екатерининский парк
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/307848098/,долгопрудный,sale,flat,21,24,2,52.4,-1,0,37200000,Арбат, Новый Арбат,16,Арбатская,
+Флагман,real_estate_agent,https://krasnodar.cian.ru/sale/flat/307815594/,долгопрудный,sale,flat,9,16,1,39.0,-1,0,5200000,Прикубанский, Летчика Позднякова,2,,Дыхание
+СК10,developer,https://rostov.cian.ru/sale/flat/306489613/,долгопрудный,sale,flat,6,9,1,40.6,-1,0,5310000,Железнодорожный,,,,Сезоны ЖК
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/305646078/,долгопрудный,sale,flat,24,24,2,57.4,-1,0,37480000,Хорошево-Мневники,Шелепихинская набережная,34к3зд7,Шелепиха,Сердце Столицы
+ТСН Владис,real_estate_agent,https://balashikha.cian.ru/sale/flat/306785132/,долгопрудный,sale,flat,3,20,1,47.3,-1,0,6499999,, Чистопольская,28,Щёлковская,Эдельвейс-Комфорт
+СК10,developer,https://rostov.cian.ru/sale/flat/289504809/,долгопрудный,sale,flat,24,25,1,30.41,-1,0,4390000,Октябрьский,,,,Гринсайд ЖК
+ZAPAD REALTY - офис Маршала Жукова,real_estate_agent,https://www.cian.ru/sale/flat/308629847/,долгопрудный,sale,flat,26,41,2,46.0,-1,0,21500000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+Василий Мельник,realtor,https://mytishchi.cian.ru/sale/flat/289793101/,долгопрудный,sale,flat,2,13,2,63.1,-1,0,9500000,, Колпакова,25,Медведково,
+Неометрия,developer,https://krasnodar.cian.ru/sale/flat/288551750/,долгопрудный,sale,flat,3,23,2,54.0,-1,0,7092750,,,,,Отражение
+Михаил Догов,realtor,https://spb.cian.ru/sale/flat/304774889/,долгопрудный,sale,flat,2,29,2,51.5,-1,0,7200000,,Новая ,7к3,Девяткино,ЦДС Новое Мурино
+Елена Гореликова,realtor,https://khimki.cian.ru/sale/flat/305791922/,долгопрудный,sale,flat,13,15,1,26.8,-1,0,5500000,Велтон Парк Новая Сходня мкр, Беговая,12,,Wellton Park Новая Сходня
+СК10,developer,https://rostov.cian.ru/sale/flat/305717857/,долгопрудный,sale,flat,21,25,1,37.39,-1,0,5565839,Кировский,,,,Культура ЖК
+ID 112609323,realtor,https://www.cian.ru/sale/flat/307205775/,долгопрудный,sale,flat,4,6,1,59.35,-1,0,101785250,Мещанский, Кузнецкий Мост,12/3С1,Кузнецкий мост,Kuznetsky Most 12 by Lalique
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Антон Белов,realtor,https://www.cian.ru/sale/flat/297215041/,долгопрудный,sale,flat,13,14,1,39.0,-1,0,17600000,Таганский,переулок Ковров,1,Москва-Товарная,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/303975998/,долгопрудный,sale,flat,13,19,2,51.8,-1,0,7594000,Орджоникидзевский,,,Машиностроителей,Основинские кварталы ЖК
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/306226871/,долгопрудный,sale,flat,3,14,2,106.9,-1,0,160350000,Хамовники,переулок 1-й Тружеников,16,Киевская,Brodsky
+OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/308686231/,долгопрудный,sale,flat,4,9,2,47.0,-1,0,26700000,Раменки, Дружбы,2/19,Ломоносовский проспект,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/298036735/,долгопрудный,sale,flat,4,24,1,40.4,-1,0,10036000,Центр, Большакова,66,Геологическая,RedRock
+ZIP Realty,real_estate_agent,https://www.cian.ru/sale/flat/307496200/,долгопрудный,sale,flat,1,10,1,31.0,-1,0,14500000,Раменки,Мичуринский проспект,10К1,Ломоносовский проспект,
+Влюблённые в недвижимость,real_estate_agent,https://spb.cian.ru/sale/flat/308377523/,долгопрудный,sale,flat,6,6,2,55.9,-1,0,21600000,Петроградский,Ораниенбаумская ,20,Чкаловская,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/298038407/,долгопрудный,sale,flat,2,16,1,55.9,-1,0,21462000,Центр, Февральской Революции,21,Динамо,19/05
+PEOPLE,real_estate_agent,https://www.cian.ru/sale/flat/306829886/,долгопрудный,sale,flat,5,14,2,73.1,-1,0,65520000,Замоскворечье,Мытная ,7с1,Серпуховская,Английский квартал
+HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/307091345/,долгопрудный,sale,flat,16,17,1,35.1,-1,0,16800000,Ярославский,Ярославское шоссе,51,ВДНХ,Я51
+DOGMA,developer,https://krasnodar.cian.ru/sale/flat/305422283/,долгопрудный,sale,flat,3,18,2,56.2,-1,0,6406800,,,,,Парк Победы - 2
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/307963741/,долгопрудный,sale,flat,1,16,2,56.0,-1,0,13750000,Очаково-Матвеевское,Матвеевская ,6,Матвеевская,
+ID 47664046,unknown,https://www.cian.ru/sale/flat/308165149/,долгопрудный,sale,flat,10,12,2,52.0,-1,0,13200000,Царицыно,Луганская ,3К2,Царицыно,
+Садовое кольцо,developer,https://kazan.cian.ru/sale/flat/308626955/,долгопрудный,sale,flat,10,24,1,45.8,-1,0,15809922,Ново-Савиновский,,,Козья слобода,Савин Фемили ЖК
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/305024150/,долгопрудный,sale,flat,12,16,2,54.0,-1,0,16399000,Можайский,Можайское шоссе,33,Рабочий посёлок,
+OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/294476646/,долгопрудный,sale,flat,3,5,1,31.0,-1,0,18500000,Пресненский, Юлиуса Фучика,2/30,Маяковская,
+ИНСИТИ девелопмент,developer,https://krasnodar.cian.ru/sale/flat/306996008/,долгопрудный,sale,flat,17,24,1,37.58,-1,0,6159458,,,,,Микрорайон Любимово
+ZAPAD REALTY - офис Маршала Жукова,real_estate_agent,https://www.cian.ru/sale/flat/307103955/,долгопрудный,sale,flat,24,24,2,58.0,-1,0,37490000,Хорошево-Мневники,Шелепихинская набережная,34к3,Шелепиха,Сердце Столицы
+КАПИТАЛ,real_estate_agent,https://spb.cian.ru/sale/flat/303753408/,долгопрудный,sale,flat,6,13,1,41.2,-1,0,12400000,Московский,Кузнецовская ,58к3,Парк Победы,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/298221123/,долгопрудный,sale,flat,25,25,1,37.2,-1,0,7861500,Чкаловский, 8 Марта,204Д,Чкаловская,Ботаника LIFE
+BRIGHT ESTATE - городская недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/303778337/,долгопрудный,sale,flat,9,14,2,99.9,-1,0,134500000,Хамовники, Усачева,15А,Спортивная,Садовые кварталы
+ID 94542124,homeowner,https://www.cian.ru/sale/flat/308767223/,долгопрудный,sale,flat,5,18,2,39.9,-1,0,22500000,Левобережный,Фестивальная ,15К4,Речной вокзал,Фестиваль парк-2
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/299168872/,долгопрудный,sale,flat,2,9,2,73.9,-1,0,25839000,Центр, Михаила Ананьева,,Динамо,Клубный дом инженера Ятеса
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/307079313/,долгопрудный,sale,flat,9,14,2,77.0,-1,0,62000000,Раменки,проспект Генерала Дорохова,39к1Г,Минская,Собрание клубных домов West Garden
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/307986637/,долгопрудный,sale,flat,11,14,1,35.0,-1,0,13900000,Раменки,1-й Сетуньский проезд,10,Кутузовская,
+Средастрой Новороссийск,developer,https://novorossiysk.cian.ru/sale/flat/307130577/,долгопрудный,sale,flat,2,17,2,58.66,-1,0,13198500,,,,,Золотой берег 2
+ID 85604823,unknown,https://www.cian.ru/sale/flat/305015991/,долгопрудный,sale,flat,26,41,2,50.0,-1,0,34000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+Винсент Недвижимость Центральный Офис номер 1,real_estate_agent,https://sochi.cian.ru/sale/flat/295204012/,долгопрудный,sale,flat,3,11,2,53.0,-1,0,22300000,Хостинский, Яна Фабрициуса,2/17,,Фестивальный
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Неометрия,developer,https://krasnodar.cian.ru/sale/flat/308339502/,долгопрудный,sale,flat,21,22,1,34.4,-1,0,5105550,Прикубанский, Конгрессная,43,,Отражение
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/307826522/,долгопрудный,sale,flat,3,9,2,148.5,-1,0,189000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+SPB Housing,real_estate_agent,https://spb.cian.ru/sale/flat/304205144/,долгопрудный,sale,flat,8,13,2,57.9,-1,0,16212000,Василеостровский,набережная Реки Смоленки,35к1,Приморская,Айно
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/303395042/,долгопрудный,sale,flat,2,25,1,30.4,-1,0,6288000,Орджоникидзевский,,,Машиностроителей,Основинские кварталы ЖК
+Century 21 Street Realty,real_estate_agent,https://www.cian.ru/sale/flat/297469215/,долгопрудный,sale,flat,8,9,2,64.2,-1,0,77000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+CENTURY 21 Столичная недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/307430903/,долгопрудный,sale,flat,4,15,1,53.36,-1,0,13950000,, Татьянин Парк,16к1,Говорово,
+ПАРК АВЕНЮ,developer,https://krasnodar.cian.ru/sale/flat/307199095/,долгопрудный,sale,flat,3,6,2,45.4,-1,0,5902000,Горячий Ключ, Ярославского,100В,,Ярославский
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/302630222/,долгопрудный,sale,flat,25,45,1,64.0,-1,0,40999999,Дорогомилово,Кутузовский проезд,16А/1,Шелепиха,River Park Кутузовский
+Барокко,real_estate_agent,https://spb.cian.ru/sale/flat/307310259/,долгопрудный,sale,flat,11,15,1,36.3,-1,0,8200000,Приморский,Комендантский проспект,23к1,Комендантский проспект,
+ЭНКО,developer,https://tyumen.cian.ru/sale/flat/297298593/,долгопрудный,sale,flat,2,17,2,52.68,-1,0,6460000,д. Патрушева, Петра Ершова,12,,ЖР 
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/303137027/,долгопрудный,sale,flat,2,5,2,106.0,-1,0,155000000,Тверской,Никольская ,10,Площадь Революции,St. Nickolas
+Андрей Вдовин,realtor,https://www.cian.ru/sale/flat/278701200/,долгопрудный,sale,flat,2,15,1,31.9,-1,0,11758286,Хорошевский,Ходынский бульвар,2,ЦСКА,Лайнер
+Эталон,developer,https://ekb.cian.ru/sale/flat/308414252/,долгопрудный,sale,flat,11,16,2,47.1,-1,0,6579206,Чкаловский,,,Ботаническая,Жилой район Солнечный
+ESSE REAL ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/308363866/,долгопрудный,sale,flat,3,9,2,37.0,-1,0,13199000,Бабушкинский,Староватутинский проезд,3,Бабушкинская,
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/306378692/,долгопрудный,sale,flat,10,24,2,43.0,-1,0,21000000,Готовая кв-ра в Даниловском е2-комн. квартира,43 м²,,,
+DOGMA,developer,https://krasnodar.cian.ru/sale/flat/305421053/,долгопрудный,sale,flat,2,18,1,38.3,-1,0,5162840,,,,,Парк Победы - 2
+hoomie,real_estate_agent,https://www.cian.ru/sale/flat/305679592/,долгопрудный,sale,flat,7,20,1,43.09,-1,0,20252300,Даниловский,Автозаводская ,26,Тульская,FORST
+Главстрой,developer,https://www.cian.ru/sale/flat/306076580/,долгопрудный,sale,flat,4,22,2,67.1,-1,0,28625560,Филевский парк,Береговой проезд,2,Фили,Береговой-2
+R1 Development,developer,https://ekb.cian.ru/sale/flat/303900194/,долгопрудный,sale,flat,2,8,2,63.63,-1,0,10923108,Орджоникидзевский, Уральских Рабочих,26,Проспект Космонавтов,Банников Дом
+ID 112591621,homeowner,https://www.cian.ru/sale/flat/308498116/,долгопрудный,sale,flat,13,47,2,51.0,-1,0,32950000,Дорогомилово,Кутузовский проезд,16А/1,Фили,River Park Кутузовский
+HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/300199357/,долгопрудный,sale,flat,14,58,2,60.2,-1,0,21000000,Ростокино,проспект Мира,188Бк1,Ростокино,Триколор
+Первостроитель,developer,https://ekb.cian.ru/sale/flat/297995554/,долгопрудный,sale,flat,14,25,2,70.6,-1,0,11733000,Кировский, Комсомольская,67,Геологическая,Жилой квартал Комсомольская 67
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/303761033/,долгопрудный,sale,flat,31,65,2,51.1,-1,0,50000000,Пресненский,Краснопресненская набережная,14Ак2,Москва-Сити,Capital Towers
+Мой мир,real_estate_agent,https://omsk.cian.ru/sale/flat/308259528/,долгопрудный,sale,flat,8,10,1,39.5,-1,0,5300000,мкр. Континентальный,бульвар Архитекторов,4,,
+Ак Барс Дом,developer,https://kazan.cian.ru/sale/flat/300752652/,долгопрудный,sale,flat,16,19,2,50.3,-1,0,9235080,Советский,,3,Горки,Светлая Долина ЖК
+Павел Михайлов,realtor,https://www.cian.ru/sale/flat/308082096/,долгопрудный,sale,flat,12,16,1,44.0,-1,0,26296000,Раменки,проспект Генерала Дорохова,39к2Л,Минская,Собрание клубных домов West Garden
+РИСАН,developer,https://penza.cian.ru/sale/flat/291733470/,долгопрудный,sale,flat,2,16,2,56.9,-1,0,5462400,Октябрьский,,,,Лэйк Таун ЖК
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/298221157/,долгопрудный,sale,flat,3,9,1,55.0,-1,0,18788500,Центр, Михаила Ананьева,,Динамо,Клубный дом инженера Ятеса
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Villagio Realty,real_estate_agent,https://www.cian.ru/sale/flat/308759283/,долгопрудный,sale,flat,8,11,2,73.4,-1,0,70000000,Тверской,Лесная ,4с1,Белорусская,
+BERI,real_estate_agent,https://www.cian.ru/sale/flat/308009678/,долгопрудный,sale,flat,12,17,2,57.8,-1,0,27927000,Раменки,Мичуринский проспект,21К1,Раменки,
+Средастрой Новороссийск,developer,https://novorossiysk.cian.ru/sale/flat/307130635/,долгопрудный,sale,flat,6,17,1,42.93,-1,0,8800650,,,,,Золотой берег 2
+Владислав Карпов,realtor,https://www.cian.ru/sale/flat/308833375/,долгопрудный,sale,flat,15,28,1,40.0,-1,0,30500000,Раменки,Винницкая ,8к3,Раменки,Настоящее
+ID 18111054,unknown,https://kotelniki.cian.ru/sale/flat/300511360/,долгопрудный,sale,flat,21,33,2,52.4,-1,0,11550000,, Сосновая,5к1,Котельники,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/304437850/,долгопрудный,sale,flat,5,8,2,44.6,-1,0,7763000,Верх-Исетский,,,Площадь 1905 года,Русь-2 ЖК
+BARNES International Realty,real_estate_agent,https://www.cian.ru/sale/flat/307505747/,долгопрудный,sale,flat,10,12,1,55.0,-1,0,32500000,Тверской,2-я Брестская ,6,Маяковская,Резиденция Тверская
+VESPER,developer,https://www.cian.ru/sale/flat/286258299/,долгопрудный,sale,flat,5,9,2,104.2,-1,0,150958800,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+Таврида Девелопмент,developer,https://krym.cian.ru/sale/flat/299892583/,долгопрудный,sale,flat,2,9,2,49.07,-1,0,21968639,Массандра пгт, Мухина,17А,,Клубный дом Массандра Парк
+Marry Lane Group,real_estate_agent,https://www.cian.ru/sale/flat/307494611/,долгопрудный,sale,flat,2,44,1,48.1,-1,0,25000000,Пресненский,Ходынская ,2,Улица 1905 года,Пресня Сити
+ТСН Владис,real_estate_agent,https://korolev.cian.ru/sale/flat/306789052/,долгопрудный,sale,flat,4,4,2,57.7,-1,0,12100000,,Бурковский проезд,36к5,Ботанический сад,Театральный парк
+Ак Барс Дом,developer,https://kazan.cian.ru/sale/flat/301019681/,долгопрудный,sale,flat,5,22,2,48.02,-1,0,10756480,Советский,ПК1-1,ПК1-1,Горки,Мой Ритм ЖК
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/303582856/,долгопрудный,sale,flat,4,21,2,56.2,-1,0,55076000,Пресненский,2-я Звенигородская ,16,Улица 1905 года,Lucky
+NIKA ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/306945307/,долгопрудный,sale,flat,21,24,1,40.8,-1,0,30000000,Хорошевский,Хорошевское шоссе,25Ак3,Полежаевская,Династия
+ПАРК АВЕНЮ,developer,https://krasnodar.cian.ru/sale/flat/307199106/,долгопрудный,sale,flat,3,6,1,33.4,-1,0,4575800,Горячий Ключ, Ярославского,100В,,Ярославский
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/306373900/,долгопрудный,sale,flat,13,30,1,93.8,-1,0,28999999,Щукино,проезд 4-й Красногорский,,Стрешнево,Moments
+ТСН Владис,real_estate_agent,https://korolev.cian.ru/sale/flat/305185855/,долгопрудный,sale,flat,3,4,2,50.1,-1,0,9200000,,Бурковский проезд,44к3,Медведково,Театральный парк
+ЭНКО,developer,https://tyumen.cian.ru/sale/flat/306667447/,долгопрудный,sale,flat,3,17,1,36.4,-1,0,5470000,д. Патрушева, Лермонтова,8,,ЖР 
+ZAPAD REALTY - офис Маршала Жукова,real_estate_agent,https://www.cian.ru/sale/flat/305658950/,долгопрудный,sale,flat,2,9,2,74.0,-1,0,30000000,Очаково-Матвеевское,Аминьевское шоссе,4Дк2,Аминьевская,Вестердам
+Барокко,real_estate_agent,https://spb.cian.ru/sale/flat/301470605/,долгопрудный,sale,flat,5,13,1,36.62,-1,0,9200000,Василеостровский,бульвар Головнина,4,Приморская,Аквилон ZALIVE
+AVA,developer,https://krasnodar.cian.ru/sale/flat/307190072/,долгопрудный,sale,flat,4,12,2,55.2,-1,0,8103360,мкр. 9-й километр, Ярославская,115лит7,,Небо
+House Estate,real_estate_agent,https://spb.cian.ru/sale/flat/307668200/,долгопрудный,sale,flat,1,8,2,48.3,-1,0,8650000,Кировский, Лени Голикова,74,Проспект Ветеранов,
+Агентство недвижимости Романа Чиковани,real_estate_agent,https://spb.cian.ru/sale/flat/304650198/,долгопрудный,sale,flat,4,12,2,45.0,-1,0,7700000,,проспект Строителей,5к1,Улица Дыбенко,ID Kudrovo
+Эталон,developer,https://ekb.cian.ru/sale/flat/308413983/,долгопрудный,sale,flat,3,16,1,35.8,-1,0,5634818,Чкаловский,,,Ботаническая,Жилой район Солнечный
+ID 109135729,realtor,https://www.cian.ru/sale/flat/307434429/,долгопрудный,sale,flat,3,21,2,59.2,-1,0,61000000,Пресненский, Костикова,4к1,Улица 1905 года,Lucky
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/304952945/,долгопрудный,sale,flat,11,20,1,44.0,-1,0,22490000,Левобережный,,В3,Беломорская,Акватория ЖК
+R1 Development,developer,https://ekb.cian.ru/sale/flat/303900221/,долгопрудный,sale,flat,2,8,1,42.64,-1,0,7763465,Орджоникидзевский, Уральских Рабочих,26,Проспект Космонавтов,Банников Дом
+Солнечный Берег,real_estate_agent,https://sochi.cian.ru/sale/flat/301248328/,долгопрудный,sale,flat,9,19,2,130.0,-1,0,75000000,Центральный, Нагорная,11,,
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Таврида Девелопмент,developer,https://krym.cian.ru/sale/flat/308884460/,балашиха,sale,flat,2,20,2,46.3,-1,0,18983000,,,,,Новая Ливадия
+ID 12530791,unknown,https://www.cian.ru/sale/flat/303761506/,балашиха,sale,flat,38,78,1,58.0,-1,0,58500000,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити,NEVA TOWERS
+PROНЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/sale/flat/308789447/,балашиха,sale,flat,11,12,1,33.5,-1,0,8000000,Чертаново Южное,3-й Дорожный проезд,6К1,Улица Академика Янгеля,
+Дипломат,developer,https://krym.cian.ru/sale/flat/292125018/,балашиха,sale,flat,2,8,2,66.0,-1,0,22622160,,,,,Резиденция Дипломат
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308553708/,балашиха,sale,flat,9,12,2,88.0,-1,0,59350000,Тверской,2-я Брестская ,6,Маяковская,Резиденция Тверская
+ID 123328834,homeowner,https://www.cian.ru/sale/flat/308676848/,балашиха,sale,flat,6,14,1,36.0,-1,0,13700000,Перово,Мартеновская ,11/12,Новогиреево,
+Таврида Девелопмент,developer,https://krym.cian.ru/sale/flat/304428700/,балашиха,sale,flat,2,20,1,25.04,-1,0,10141200,,,,,Новая Ливадия
+hoomie,real_estate_agent,https://www.cian.ru/sale/flat/305679467/,балашиха,sale,flat,4,20,2,64.29,-1,0,24166611,Даниловский,Автозаводская ,26,Тульская,FORST
+do A.S.A.P.,real_estate_agent,https://www.cian.ru/sale/flat/306451958/,балашиха,sale,flat,3,12,2,37.0,-1,0,9500000,Западное Дегунино,Коровинское шоссе,9К1,Селигерская,
+Дипломат,developer,https://krym.cian.ru/sale/flat/292124957/,балашиха,sale,flat,2,5,1,65.7,-1,0,24860880,,,,,Резиденция Дипломат
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308553460/,балашиха,sale,flat,9,12,2,99.0,-1,0,96750000,Тверской,2-я Брестская ,6,Маяковская,Резиденция Тверская
+Светлана Анисимова,realtor,https://www.cian.ru/sale/flat/308703083/,балашиха,sale,flat,21,31,2,55.7,-1,0,21990000,Богородское,Тюменский проезд,3к1,Бульвар Рокоссовского,Преображение
+Неометрия,developer,https://sochi.cian.ru/sale/flat/302445049/,балашиха,sale,flat,2,10,2,33.0,-1,0,31491900,Адлерский,Адлер жилрайон,,,Гостиничный комплекс 
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/306566143/,балашиха,sale,flat,6,7,2,96.0,-1,0,260000000,Хамовники, Льва Толстого,23к7с3,Парк Культуры,
+Солнечный Сочи,real_estate_agent,https://sochi.cian.ru/sale/flat/308303850/,балашиха,sale,flat,24,26,2,105.0,-1,0,8000000,Хостинский,Курортный проспект,105,,
+Сармат,developer,https://krasnodar.cian.ru/sale/flat/307540476/,балашиха,sale,flat,2,16,2,64.3,-1,0,6751500,Прикубанский, Западный обход,65/1,,Cармат
+ID 10601,realtor,https://www.cian.ru/sale/flat/307801822/,балашиха,sale,flat,5,5,2,42.3,-1,0,28300000,Тверской,Тверская ,27С1,Маяковская,
+Mikhail Uger,realtor,https://www.cian.ru/sale/flat/304113525/,балашиха,sale,flat,17,25,1,36.8,-1,0,9900000,Чертаново Северное,Северное Чертаново мкр,7кБ,Чертановская,
+Интеллект,developer,https://krym.cian.ru/sale/flat/306043753/,балашиха,sale,flat,5,13,2,36.33,-1,0,12249111,,,,,Парковая Резиденция
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308343895/,балашиха,sale,flat,8,29,2,69.1,-1,0,31095000,Якиманка,Мытная ,40к3,Шаболовская,Sky House
+Диалог Риэлт,real_estate_agent,https://lyubertsy.cian.ru/sale/flat/308678545/,балашиха,sale,flat,4,4,1,31.9,-1,0,4000000,Октябрьский рп, Комсомольская,11,,
+Неометрия,developer,https://sochi.cian.ru/sale/flat/302444728/,балашиха,sale,flat,8,10,1,22.2,-1,0,26140500,Адлерский,Адлер жилрайон,,,Гостиничный комплекс 
+ID 85604823,unknown,https://www.cian.ru/sale/flat/308497818/,балашиха,sale,flat,16,41,2,51.0,-1,0,34000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+ID 98396578,homeowner,https://www.cian.ru/sale/flat/308733860/,балашиха,sale,flat,1,9,2,45.0,-1,0,17800000,Красносельский,Протопоповский переулок,38,Площадь трёх вокзалов,
+Сармат,developer,https://krasnodar.cian.ru/sale/flat/307540724/,балашиха,sale,flat,2,16,1,37.9,-1,0,5306000,Прикубанский, Западный обход,65/1,,Cармат
+ID 85604823,unknown,https://www.cian.ru/sale/flat/305768574/,балашиха,sale,flat,6,42,1,42.0,-1,0,29000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+Никита Гаврилов,realtor,https://www.cian.ru/sale/flat/308711044/,балашиха,sale,flat,8,22,1,40.0,-1,0,13290000,Марьино, Верхние Поля,36К2,Люблино,
+Интеллект,developer,https://krym.cian.ru/sale/flat/295983885/,балашиха,sale,flat,2,13,1,38.3,-1,0,12928244,,,,,Парковая Резиденция
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+ID 85604823,unknown,https://www.cian.ru/sale/flat/307014462/,балашиха,sale,flat,6,42,1,42.0,-1,0,29000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+GRAND ESTATE - Премиальная недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/305111360/,балашиха,sale,flat,4,16,2,37.0,-1,0,19000000,Пресненский,Красногвардейский бульвар,5К2,Москва-Сити,
+Интеллект,developer,https://krym.cian.ru/sale/flat/291497607/,балашиха,sale,flat,2,20,2,49.18,-1,0,12718487,,,,,Крымская Резиденция
+SHOW ME,real_estate_agent,https://www.cian.ru/sale/flat/272003903/,балашиха,sale,flat,5,6,2,43.0,-1,0,26900000,Беговой, 3-я Ямского Поля,9,Белорусская,Art Residence
+Залму Писарук,realtor,https://www.cian.ru/sale/flat/308532820/,балашиха,sale,flat,7,12,2,55.0,-1,0,13400000,Бирюлево Восточное,Лебедянская ,4,,
+Эталон,developer,https://ekb.cian.ru/sale/flat/308412109/,балашиха,sale,flat,3,5,2,40.69,-1,0,5821699,,,,,Балтым-Парк
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/301258691/,балашиха,sale,flat,2,21,2,57.23,-1,0,59000000,Пресненский,2-я Звенигородская ,16,Улица 1905 года,Lucky
+Зульфия  Галяутдинова,realtor,https://www.cian.ru/sale/flat/308225788/,балашиха,sale,flat,13,14,2,61.0,-1,0,29000000,Гагаринский,Университетский проспект,6К2,Воробьёвы горы,
+Перспектива,developer,https://krym.cian.ru/sale/flat/305496512/,балашиха,sale,flat,3,8,2,76.9,-1,0,23000000,Восход пгт, Наташинская,2Ж,,Монако
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/307822693/,балашиха,sale,flat,9,18,2,66.4,-1,0,69700000,Хамовники,,,Воробьёвы горы,Коллекция Лужники ЖК
+ЛЮДИ ДЛЯ ЛЮДЕЙ,real_estate_agent,https://spb.cian.ru/sale/flat/305602913/,балашиха,sale,flat,4,7,1,31.1,-1,0,6000000,Калининский,проспект Науки,40,Академическая,
+СК10,developer,https://rostov.cian.ru/sale/flat/289997272/,балашиха,sale,flat,19,25,2,38.54,-1,0,5140000,Советский,,,,Малина парк
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/298050405/,балашиха,sale,flat,7,9,2,108.3,-1,0,154000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+ТСН Владис,real_estate_agent,https://balashikha.cian.ru/sale/flat/303023571/,балашиха,sale,flat,4,5,1,30.3,-1,0,3899000,,шоссе Энтузиастов,57,Салтыковская,
+РКС Девелопмент,developer,https://krasnodar.cian.ru/sale/flat/306944508/,балашиха,sale,flat,2,7,2,56.5,-1,0,13627800,,,,,Anapolis Residence
+hoomie,real_estate_agent,https://www.cian.ru/sale/flat/305679729/,балашиха,sale,flat,9,20,2,59.0,-1,0,25370000,Даниловский,,,Тульская,Форст ЖК
+ID 74991203,homeowner,https://www.cian.ru/sale/flat/308079051/,балашиха,sale,flat,3,24,2,53.2,-1,0,19570000,Донской,Новоданиловская набережная,8к2,Верхние котлы,Новоданиловская 8
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/306297919/,балашиха,sale,flat,2,18,2,49.5,-1,0,7730000,Верх-Исетский,,,Площадь 1905 года,Русь XXI ЖК
+White and Broughton,real_estate_agent,https://www.cian.ru/sale/flat/299890518/,балашиха,sale,flat,9,40,1,41.5,-1,0,32000000,Хорошевский,Ленинградский проспект,37/4,ЦСКА,Прайм Парк
+Святослав Пивненко,realtor,https://spb.cian.ru/sale/flat/307823563/,балашиха,sale,flat,4,17,2,74.0,-1,0,17300000,Приморский,аллея Поликарпова,6к1,Пионерская,
+Интеллект,developer,https://krym.cian.ru/sale/flat/306356337/,балашиха,sale,flat,7,20,1,24.84,-1,0,8609974,,,,,Крымская Резиденция
+Century 21 Street Realty,real_estate_agent,https://www.cian.ru/sale/flat/304519685/,балашиха,sale,flat,39,41,2,56.9,-1,0,39000000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+ID 7150714,homeowner,https://spb.cian.ru/sale/flat/308695839/,балашиха,sale,flat,2,5,2,46.0,-1,0,18000000,Петроградский,Каменноостровский проспект,64С,Петроградская,
+Эталон,developer,https://ekb.cian.ru/sale/flat/308412177/,балашиха,sale,flat,2,5,1,38.08,-1,0,5498522,,,,,Балтым-Парк
+PEOPLE,real_estate_agent,https://www.cian.ru/sale/flat/305909779/,балашиха,sale,flat,6,10,2,178.1,-1,0,150000000,Тверской,Большая Грузинская ,69,Белорусская,Четыре Ветра
+ID 47664046,unknown,https://www.cian.ru/sale/flat/308204535/,балашиха,sale,flat,5,17,2,65.2,-1,0,21500000,Черемушки,Профсоюзная ,30К2,Профсоюзная,
+Перспектива,developer,https://krym.cian.ru/sale/flat/305496510/,балашиха,sale,flat,2,8,1,70.3,-1,0,16000000,Восход пгт, Наташинская,2Ж,,Монако
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/305274218/,балашиха,sale,flat,2,5,2,84.63,-1,0,139639500,Басманный,Потаповский переулок,6С1,Чистые пруды,Абрикосов
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+VESPER,developer,https://www.cian.ru/sale/flat/286258299/,Москва,sale,flat,5,9,2,104.2,-1,0,150958800,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+ID 12530791,unknown,https://www.cian.ru/sale/flat/303761506/,Москва,sale,flat,38,78,1,58.0,-1,0,58500000,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити,NEVA TOWERS
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308553708/,Москва,sale,flat,9,12,2,88.0,-1,0,59350000,Тверской,2-я Брестская ,6,Маяковская,Резиденция Тверская
+VESPER,developer,https://www.cian.ru/sale/flat/308762624/,Москва,sale,flat,5,21,2,110.6,-1,0,108976392,Пресненский, Костикова,4к1,Улица 1905 года,Lucky
+hoomie,real_estate_agent,https://www.cian.ru/sale/flat/305679467/,Москва,sale,flat,4,20,2,64.29,-1,0,24166611,Даниловский,Автозаводская ,26,Тульская,FORST
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308553460/,Москва,sale,flat,9,12,2,99.0,-1,0,96750000,Тверской,2-я Брестская ,6,Маяковская,Резиденция Тверская
+Галс-Девелопмент,developer,https://www.cian.ru/sale/flat/303040441/,Москва,sale,flat,4,6,2,102.7,-1,0,114715900,Арбат,Поварская ,8/1к1,Арбатская,De Luxe квартал апартаментов Театральный Дом
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/306566143/,Москва,sale,flat,6,7,2,96.0,-1,0,260000000,Хамовники, Льва Толстого,23к7с3,Парк Культуры,
+ID 10601,realtor,https://www.cian.ru/sale/flat/307801822/,Москва,sale,flat,5,5,2,42.3,-1,0,28300000,Тверской,Тверская ,27С1,Маяковская,
+Tekta Group,developer,https://www.cian.ru/sale/flat/301259741/,Москва,sale,flat,24,42,2,43.0,-1,0,21606000,Котловка,Севастопольский проспект,22А,Нагорная,Eniteo
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308343895/,Москва,sale,flat,8,29,2,69.1,-1,0,31095000,Якиманка,Мытная ,40к3,Шаболовская,Sky House
+ID 85604823,unknown,https://www.cian.ru/sale/flat/308497818/,Москва,sale,flat,16,41,2,51.0,-1,0,34000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+VESPER,developer,https://www.cian.ru/sale/flat/308803465/,Москва,sale,flat,1,6,2,173.3,-1,0,363930000,Пресненский,Трехпрудный переулок,9С2,Пушкинская,Клубный дом Левенсон
+ID 85604823,unknown,https://www.cian.ru/sale/flat/305768574/,Москва,sale,flat,6,42,1,42.0,-1,0,29000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+ID 85604823,unknown,https://www.cian.ru/sale/flat/307014462/,Москва,sale,flat,6,42,1,42.0,-1,0,29000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+ANT Development,developer,https://www.cian.ru/sale/flat/303519421/,Москва,sale,flat,2,10,2,59.8,-1,0,71281684,Дорогомилово,,3к8,Поклонная,Виктори Парк Резиденсез ЖК
+Светлана Анисимова,realtor,https://www.cian.ru/sale/flat/308703083/,Москва,sale,flat,21,31,2,55.7,-1,0,21990000,Богородское,Тюменский проезд,3к1,Бульвар Рокоссовского,Преображение
+SHOW ME,real_estate_agent,https://www.cian.ru/sale/flat/272003903/,Москва,sale,flat,5,6,2,43.0,-1,0,26900000,Беговой, 3-я Ямского Поля,9,Белорусская,Art Residence
+Главстрой,developer,https://www.cian.ru/sale/flat/306076580/,Москва,sale,flat,4,22,2,67.1,-1,0,28625560,Филевский парк,Береговой проезд,2,Фили,Береговой-2
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/301258691/,Москва,sale,flat,2,21,2,57.23,-1,0,59000000,Пресненский,2-я Звенигородская ,16,Улица 1905 года,Lucky
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/307822693/,Москва,sale,flat,9,18,2,66.4,-1,0,69700000,Хамовники,,,Воробьёвы горы,Коллекция Лужники ЖК
+Галс-Девелопмент,developer,https://www.cian.ru/sale/flat/306243023/,Москва,sale,flat,9,27,2,69.4,-1,0,32340400,Басманный, Фридриха Энгельса,56С9,Бауманская,Дом 56
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/298050405/,Москва,sale,flat,7,9,2,108.3,-1,0,154000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+hoomie,real_estate_agent,https://www.cian.ru/sale/flat/305679729/,Москва,sale,flat,9,20,2,59.0,-1,0,25370000,Даниловский,,,Тульская,Форст ЖК
+MR Group,developer,https://www.cian.ru/sale/flat/300287890/,Москва,sale,flat,5,43,2,57.89,-1,0,29356019,Савеловский,2-я Хуторская ,34,Дмитровская,SYMPHONY 34
+White and Broughton,real_estate_agent,https://www.cian.ru/sale/flat/299890518/,Москва,sale,flat,9,40,1,41.5,-1,0,32000000,Хорошевский,Ленинградский проспект,37/4,ЦСКА,Прайм Парк
+Century 21 Street Realty,real_estate_agent,https://www.cian.ru/sale/flat/304519685/,Москва,sale,flat,39,41,2,56.9,-1,0,39000000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+Галс-Девелопмент,developer,https://www.cian.ru/sale/flat/308080996/,Москва,sale,flat,2,6,2,71.56,-1,0,131670400,Замоскворечье,Космодамианская набережная,4/22С8,Новокузнецкая,Клубный дом Космо 4/22
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+ID 85604823,unknown,https://www.cian.ru/sale/flat/307014462/,Москва,sale,flat,6,42,1,42.0,-1,0,29000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+Зульфия  Галяутдинова,realtor,https://www.cian.ru/sale/flat/308225788/,Москва,sale,flat,13,14,2,61.0,-1,0,29000000,Гагаринский,Университетский проспект,6К2,Воробьёвы горы,
+Среда,developer,https://www.cian.ru/sale/flat/304753839/,Москва,sale,flat,12,30,2,56.31,-1,0,21423871,Кунцево,48-й кв-л,,Кунцевская,Кутузовский Квартал ЖК
+SHOW ME,real_estate_agent,https://www.cian.ru/sale/flat/272003903/,Москва,sale,flat,5,6,2,43.0,-1,0,26900000,Беговой, 3-я Ямского Поля,9,Белорусская,Art Residence
+GRAND ESTATE - Премиальная недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/300539730/,Москва,sale,flat,2,6,2,63.0,-1,0,35990000,Басманный,Чистопрудный бульвар,12К2,Чистые пруды,
+MR Group,developer,https://www.cian.ru/sale/flat/306614015/,Москва,sale,flat,3,28,2,60.6,-1,0,22803806,Даниловский,,,Павелецкая,Павелецкая Сити ЖК
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/301258691/,Москва,sale,flat,2,21,2,57.23,-1,0,59000000,Пресненский,2-я Звенигородская ,16,Улица 1905 года,Lucky
+Залму Писарук,realtor,https://www.cian.ru/sale/flat/308532820/,Москва,sale,flat,7,12,2,55.0,-1,0,13400000,Бирюлево Восточное,Лебедянская ,4,,
+Главстрой,developer,https://www.cian.ru/sale/flat/307942375/,Москва,sale,flat,8,13,2,53.25,-1,0,25432093,Котловка,31/2,31/2,Профсоюзная,Новые Академики ЖК
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/307822693/,Москва,sale,flat,9,18,2,66.4,-1,0,69700000,Хамовники,,,Воробьёвы горы,Коллекция Лужники ЖК
+Ирина Василевская,realtor,https://www.cian.ru/sale/flat/272828990/,Москва,sale,flat,6,17,1,38.0,-1,0,9350000,, Авиаконструктора Петлякова,7,Пыхтино,Солнцево парк
+Tekta Group,developer,https://www.cian.ru/sale/flat/303224289/,Москва,sale,flat,16,34,2,42.4,-1,0,22349040,Обручевский,,,Воронцовская,Эвер ЖК
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/298050405/,Москва,sale,flat,7,9,2,108.3,-1,0,154000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+Delight Realty,real_estate_agent,https://www.cian.ru/sale/flat/307935729/,Москва,sale,flat,8,10,2,59.7,-1,0,55000000,Таганский,Котельническая набережная,1/15кВ,Таганская,
+MR Group,developer,https://www.cian.ru/sale/flat/308909118/,Москва,sale,flat,6,13,2,85.19,-1,0,126021567,Мещанский,Садовая-Сухаревская ,14,Цветной бульвар,Клубный дом Forum
+hoomie,real_estate_agent,https://www.cian.ru/sale/flat/305679729/,Москва,sale,flat,9,20,2,59.0,-1,0,25370000,Даниловский,,,Тульская,Форст ЖК
+BERI,real_estate_agent,https://www.cian.ru/sale/flat/308564452/,Москва,sale,flat,8,12,2,38.3,-1,0,18315000,Хорошевский, Куусинена,6К10,Полежаевская,
+Sminex,developer,https://www.cian.ru/sale/flat/293713880/,Москва,sale,flat,2,14,2,85.6,-1,0,175450000,Якиманка,,,Боровицкая,Лаврушинский ЖК
+White and Broughton,real_estate_agent,https://www.cian.ru/sale/flat/299890518/,Москва,sale,flat,9,40,1,41.5,-1,0,32000000,Хорошевский,Ленинградский проспект,37/4,ЦСКА,Прайм Парк
+ID 95814020,realtor,https://www.cian.ru/sale/flat/308490853/,Москва,sale,flat,12,17,2,71.0,-1,0,17500000,, Никитина,11к4,Рассказовка,
+TOUCH,developer,https://www.cian.ru/sale/flat/302838489/,Москва,sale,flat,8,13,2,64.0,-1,0,37645480,Южнопортовый,,к3,Дубровка,Шампайн ЖК
+PEOPLE,real_estate_agent,https://www.cian.ru/sale/flat/305909779/,Москва,sale,flat,6,10,2,178.1,-1,0,150000000,Тверской,Большая Грузинская ,69,Белорусская,Четыре Ветра
+ID 17498307,homeowner,https://www.cian.ru/sale/flat/308837547/,Москва,sale,flat,5,10,1,40.4,-1,0,28900000,Дорогомилово,Кутузовский проспект,30,Кутузовская,
+Пионер,developer,https://www.cian.ru/sale/flat/303126557/,Москва,sale,flat,3,18,2,48.5,-1,0,35800507,Донской,2-й Донской проезд,10,Ленинский проспект,SHIFT
+Century 21 Street Realty,real_estate_agent,https://www.cian.ru/sale/flat/304519685/,Москва,sale,flat,39,41,2,56.9,-1,0,39000000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+3SGroup,developer,https://www.cian.ru/sale/flat/305952760/,Москва,sale,flat,3,17,2,50.9,-1,0,11860000,,,,Корниловская,FOREVILLE
+Absolute Premium,developer,https://www.cian.ru/sale/flat/308261025/,Москва,sale,flat,4,17,2,49.8,-1,0,57968000,Хамовники,,,Воробьёвы горы,Коллекция Лужники ЖК
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/305274218/,Москва,sale,flat,2,5,2,84.63,-1,0,139639500,Басманный,Потаповский переулок,6С1,Чистые пруды,Абрикосов
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+НДВ,real_estate_agent,https://www.cian.ru/sale/flat/308421741/,Москва,sale,flat,13,17,2,52.2,-1,0,19950000,Теплый Стан,Ленинский проспект,127,Тропарёво,
+COLDY,developer,https://www.cian.ru/sale/flat/308462308/,Москва,sale,flat,7,15,2,53.7,-1,0,50408190,Даниловский, Серпуховский Вал,7с16,Тульская,Дом 7 Даниловский
+Point Estate Город,real_estate_agent,https://www.cian.ru/sale/flat/307575540/,Москва,sale,flat,4,21,2,54.0,-1,0,59000000,Пресненский,2-я Звенигородская ,16,Улица 1905 года,Lucky
+Ю-Питер,real_estate_agent,https://www.cian.ru/sale/flat/308901152/,Москва,sale,flat,14,16,2,50.5,-1,0,14000000,Отрадное, Бестужевых,13,Отрадное,
+Донстрой,developer,https://www.cian.ru/sale/flat/307281236/,Москва,sale,flat,7,21,2,65.3,-1,0,24435260,Лефортово,,,Площадь Ильича,Символ ЖК
+White and Broughton,real_estate_agent,https://www.cian.ru/sale/flat/301763282/,Москва,sale,flat,39,41,2,56.9,-1,0,40000000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+ID 116114838,homeowner,https://www.cian.ru/sale/flat/308719974/,Москва,sale,flat,2,11,2,42.4,-1,0,12850000,,бульвар Веласкеса,7к1,Ольховая,
+Пионер,developer,https://www.cian.ru/sale/flat/301459955/,Москва,sale,flat,4,11,2,85.3,-1,0,77775516,Даниловский,,,Павелецкая,Опус ЖК
+White and Broughton,real_estate_agent,https://www.cian.ru/sale/flat/301550653/,Москва,sale,flat,13,41,1,41.5,-1,0,31000000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+ID 47664046,unknown,https://www.cian.ru/sale/flat/308204535/,Москва,sale,flat,5,17,2,65.2,-1,0,21500000,Черемушки,Профсоюзная ,30К2,Профсоюзная,
+Tekta Group,developer,https://www.cian.ru/sale/flat/303506216/,Москва,sale,flat,9,34,2,39.2,-1,0,17918320,Нагорный,,2,Нагорная,Твелв ЖК
+Contact Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/303027445/,Москва,sale,flat,3,20,1,59.0,-1,0,61800000,Пресненский, Костикова,4к6,Улица 1905 года,Lucky
+Альберт Аванесян,realtor,https://www.cian.ru/sale/flat/307156518/,Москва,sale,flat,5,13,2,59.8,-1,0,16350000,Марьино,Новомарьинская ,4,Марьино,
+Sminex,developer,https://www.cian.ru/sale/flat/308620442/,Москва,sale,flat,3,26,2,61.54,-1,0,31220000,Марфино, Академика Королева,21,Бутырская,Дом Достижение
+ZIP Realty,real_estate_agent,https://www.cian.ru/sale/flat/303387198/,Москва,sale,flat,18,22,1,30.0,-1,0,11700000,,бульвар Андрея Тарковского,11,Рассказовка,Рассказово
+Виктория Грудько,realtor,https://www.cian.ru/sale/flat/308153896/,Москва,sale,flat,4,8,1,33.0,-1,0,12800000,Теплый Стан,Профсоюзная ,136К4,Коньково,
+MR Group,developer,https://www.cian.ru/sale/flat/306610643/,Москва,sale,flat,2,59,2,31.1,-1,0,,Можайский,,,Давыдково,Веер ЖК
+ID 52825739,homeowner,https://www.cian.ru/sale/flat/307814530/,Москва,sale,flat,7,15,2,46.5,-1,0,23900000,Хорошевский,Ходынский бульвар,20А,ЦСКА,Лайнер
+Доступный дом,real_estate_agent,https://www.cian.ru/sale/flat/293926786/,Москва,sale,flat,3,17,1,35.4,-1,0,14990000,, Эдварда Грига,15,Потапово,
+UNIQ Development,developer,https://www.cian.ru/sale/flat/307668235/,Москва,sale,flat,3,25,2,64.3,-1,0,50154000,Фили-Давыдково,Малая Филевская ,46,Кунцевская,Springs
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/308872981/,Москва,sale,flat,37,37,2,48.0,-1,0,42500000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/308686231/,Москва,sale,flat,4,9,2,47.0,-1,0,26700000,Раменки, Дружбы,2/19,Ломоносовский проспект,
+MR Group,developer,https://www.cian.ru/sale/flat/306603287/,Москва,sale,flat,3,36,2,68.6,-1,0,48137992,Беговой,Ленинградский проспект,вл8,Белорусская,Slava
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/303534103/,Москва,sale,flat,16,25,1,34.0,-1,0,9700000,,,7,Ольховая,
+ID 285016,homeowner,https://www.cian.ru/sale/flat/307877352/,Москва,sale,flat,19,21,2,51.0,-1,0,26600000,Очаково-Матвеевское, Малая Очаковская,4Ак1,Озёрная,Мичуринский парк
+Пионер,developer,https://www.cian.ru/sale/flat/307217514/,Москва,sale,flat,4,39,2,35.4,-1,0,31667318,Даниловский,,,Павелецкая,Хай Лайф ЖК
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/302177521/,Москва,sale,flat,3,15,2,58.54,-1,0,61000000,Пресненский, Костикова,4к4,Улица 1905 года,Lucky
+BARNES International Realty,real_estate_agent,https://www.cian.ru/sale/flat/294511036/,Москва,sale,flat,4,23,2,90.6,-1,0,45000000,Хорошевский, Гризодубовой,2,ЦСКА,Гранд-парк
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+EraOneHolding,developer,https://www.cian.ru/sale/flat/305196550/,Москва,sale,flat,7,8,2,121.8,-1,0,141031579,Арбат, Арбат,24,Смоленская,Turandot Residences
+PEOPLE,real_estate_agent,https://www.cian.ru/sale/flat/308069817/,Москва,sale,flat,4,21,2,54.0,-1,0,58000000,Пресненский,2-я Звенигородская ,14,Улица 1905 года,Lucky
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/304572948/,Москва,sale,flat,3,14,1,39.0,-1,0,9300000,Ново-Переделкино, Шолохова,2,Новопеределкино,
+КОРТРОС,developer,https://www.cian.ru/sale/flat/296640098/,Москва,sale,flat,3,49,2,58.94,-1,0,23988580,Марьина роща,,,Марьина Роща,Тэйт ЖК
+PEOPLE,real_estate_agent,https://www.cian.ru/sale/flat/280614853/,Москва,sale,flat,3,15,2,58.54,-1,0,61000000,Пресненский, Костикова,4к4,Улица 1905 года,Lucky
+BERI,real_estate_agent,https://www.cian.ru/sale/flat/308567756/,Москва,sale,flat,6,12,2,49.9,-1,0,24740000,Филевский парк,Кастанаевская ,7,Багратионовская,
+Sense Development,developer,https://www.cian.ru/sale/flat/306043638/,Москва,sale,flat,10,13,2,64.5,-1,0,38046348,Даниловский, Даниловский Вал,1А,Тульская,Logos
+PEOPLE,real_estate_agent,https://www.cian.ru/sale/flat/306883426/,Москва,sale,flat,2,21,2,71.9,-1,0,65000000,Пресненский, Костикова,4к1,Улица 1905 года,Lucky
+ID 96167522,realtor,https://www.cian.ru/sale/flat/299789842/,Москва,sale,flat,9,9,1,36.9,-1,0,8850000,Люблино, Верхние Поля,27С2,Братиславская,
+MR Group,developer,https://www.cian.ru/sale/flat/308088531/,Москва,sale,flat,2,7,2,134.71,-1,0,323304000,Арбат,Крестовоздвиженский переулок,4,Арбатская,LUCE
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/301565559/,Москва,sale,flat,5,21,2,117.0,-1,0,115000000,Пресненский,2-я Звенигородская ,16,Улица 1905 года,Lucky
+BERI,real_estate_agent,https://www.cian.ru/sale/flat/305924959/,Москва,sale,flat,4,5,2,53.9,-1,0,19790000,Ломоносовский, Строителей,5К4,Университет,
+VESPER,developer,https://www.cian.ru/sale/flat/307211222/,Москва,sale,flat,8,9,1,57.6,-1,0,117936000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+ZAPAD REALTY - офис Маршала Жукова,real_estate_agent,https://www.cian.ru/sale/flat/308901319/,Москва,sale,flat,59,85,2,90.3,-1,0,75000000,Пресненский,1-й Красногвардейский проезд,21с1,Деловой центр,
+ID 73038306,real_estate_agent,https://www.cian.ru/sale/flat/307113976/,Москва,sale,flat,4,9,2,45.0,-1,0,17490000,Войковский, Зои и Александра Космодемьянских,11,Войковская,
+Киноцентр,developer,https://www.cian.ru/sale/flat/308070371/,Москва,sale,flat,4,20,2,45.2,-1,0,42036000,Пресненский, Красная Пресня,3,Краснопресненская,SkyView
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308896864/,Москва,sale,flat,10,32,2,64.4,-1,0,51000000,Дорогомилово,Поклонная ,9,Поклонная,Поклонная 9
+BARNES International Realty,real_estate_agent,https://www.cian.ru/sale/flat/308657571/,Москва,sale,flat,2,5,2,43.7,-1,0,16000000,Фили-Давыдково,Кутузовский проспект,69К2,Кунцевская,
+Группа Родина,developer,https://www.cian.ru/sale/flat/305476395/,Москва,sale,flat,5,19,2,42.3,-1,0,23067380,Можайский,,,Давыдково,Родина Парк ЖК
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308888399/,Москва,sale,flat,5,21,2,64.76,-1,0,68500000,Пресненский, Костикова,4к1,Улица 1905 года,Lucky
+Екатерина Боброва,realtor,https://www.cian.ru/sale/flat/308798471/,Москва,sale,flat,9,9,2,50.0,-1,0,17500000,Северное Тушино, Фомичевой,3С1,Сходненская,
+VESPER,developer,https://www.cian.ru/sale/flat/306541560/,Москва,sale,flat,5,21,1,65.9,-1,0,82172522,Пресненский, Костикова,4к1,Улица 1905 года,Lucky
+Smolenka Estate,real_estate_agent,https://www.cian.ru/sale/flat/306454598/,Москва,sale,flat,8,9,2,60.7,-1,0,74100000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+Антон Белов,realtor,https://www.cian.ru/sale/flat/297215041/,Москва,sale,flat,13,14,1,39.0,-1,0,17600000,Таганский,переулок Ковров,1,Москва-Товарная,
+СТ Тауэрс,developer,https://www.cian.ru/sale/flat/308919134/,Москва,sale,flat,2,78,2,54.9,-1,0,46939500,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити,NEVA TOWERS
+Анна Журавлева,realtor,https://www.cian.ru/sale/flat/308958260/,Москва,sale,flat,2,9,2,43.5,-1,0,10000000,Печатники,Шоссейная ,8,Печатники,
+ID 19850306,homeowner,https://www.cian.ru/sale/flat/308355964/,Москва,sale,flat,13,19,1,50.2,-1,0,23850000,Богородское,1-я Мясниковская ,2,Белокаменная,Соколиный форт
+PIONEER,developer,https://www.cian.ru/sale/flat/306809947/,Москва,sale,flat,2,22,2,45.8,-1,0,23267700,Марьина роща,Полковая ,1С12,Савёловская,PRIDE
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+ID 148596,homeowner,https://www.cian.ru/sale/flat/268629674/,Москва,sale,flat,10,10,1,38.5,-1,0,11280000,Выхино-Жулебино,Жулебинский бульвар,6/11,Лермонтовский проспект,
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/307986637/,Москва,sale,flat,11,14,1,35.0,-1,0,13900000,Раменки,1-й Сетуньский проезд,10,Кутузовская,
+Среда,developer,https://www.cian.ru/sale/flat/303626038/,Москва,sale,flat,3,27,2,55.3,-1,0,19419590,Очаково-Матвеевское,Очаково мкр,,Аминьевская,Среда на Лобачевского
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/307113534/,Москва,sale,flat,16,19,2,45.8,-1,0,32000000,Беговой,Ленинградский проспект,29к1,Динамо,Царская площадь
+TimeProperty,real_estate_agent,https://www.cian.ru/sale/flat/307089602/,Москва,sale,flat,31,40,2,79.1,-1,0,30500000,Ховрино, Дыбенко,38к1,Ховрино,
+MR Group,developer,https://www.cian.ru/sale/flat/308399369/,Москва,sale,flat,5,11,2,75.79,-1,0,56842500,Филевский парк,,,Фили,Фили Сити ЖК
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/299515958/,Москва,sale,flat,6,6,2,65.8,-1,0,46999999,Даниловский,,,Павелецкая,Опус ЖК
+ID 81467774,homeowner,https://www.cian.ru/sale/flat/306073042/,Москва,sale,flat,3,17,1,38.0,-1,0,13700000,Свиблово,Вересковая ,1К1,Свиблово,
+Ташир,developer,https://www.cian.ru/sale/flat/274701407/,Москва,sale,flat,2,17,2,45.0,-1,0,28192500,Раменки,Мичуринский проспект,вл30Б,Ломоносовский проспект,Legacy
+Владислав Карпов,realtor,https://www.cian.ru/sale/flat/308833064/,Москва,sale,flat,15,28,2,64.5,-1,0,49000000,Раменки,Винницкая ,8к2,Раменки,Настоящее
+BERI,real_estate_agent,https://www.cian.ru/sale/flat/306371748/,Москва,sale,flat,5,9,2,45.0,-1,0,15990000,Ломоносовский, Гарибальди,4К5,Новаторская,
+Ташир,developer,https://www.cian.ru/sale/flat/302722377/,Москва,sale,flat,3,16,2,47.4,-1,0,22190784,Даниловский,Малая Тульская ,2,Тульская,DECO RESIDENCE (Апартаменты премиум-класса)
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/307848098/,Москва,sale,flat,21,24,2,52.4,-1,0,37200000,Арбат, Новый Арбат,16,Арбатская,
+Евгения Гась,realtor,https://www.cian.ru/sale/flat/305248319/,Москва,sale,flat,14,40,2,65.6,-1,0,36500000,Даниловский,бульвар Братьев Весниных,1,ЗИЛ,ЗИЛАРТ
+Sminex,developer,https://www.cian.ru/sale/flat/294328857/,Москва,sale,flat,3,6,2,124.3,-1,0,270980000,Басманный,Потаповский переулок,5С4,Чистые пруды,Чистые Пруды
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/305646078/,Москва,sale,flat,24,24,2,57.4,-1,0,37480000,Хорошево-Мневники,Шелепихинская набережная,34к3зд7,Шелепиха,Сердце Столицы
+Ксения Шахматова,realtor,https://www.cian.ru/sale/flat/307950039/,Москва,sale,flat,6,9,2,40.0,-1,0,13990000,Южное Тушино,Туристская ,4К4,Сходненская,
+Dominanta,developer,https://www.cian.ru/sale/flat/304842271/,Москва,sale,flat,16,34,2,56.1,-1,0,36913800,Раменки,проезд 4-й Сетуньский,10Ас2,Парк Победы,hideOUT
+ZAPAD REALTY - офис Маршала Жукова,real_estate_agent,https://www.cian.ru/sale/flat/308629847/,Москва,sale,flat,26,41,2,46.0,-1,0,21500000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+ХОРЕКА ИНВЕСТ,real_estate_agent,https://www.cian.ru/sale/flat/305693861/,Москва,sale,flat,22,22,1,15.8,-1,0,7890000,Тропарево-Никулино,Ленинский проспект,158,Юго-Западная,
+Донстрой,developer,https://www.cian.ru/sale/flat/306760385/,Москва,sale,flat,2,16,2,85.4,-1,0,61402600,Раменки, Сергея Бондарчука,2,Мичуринский проспект,Река
+ID 112609323,realtor,https://www.cian.ru/sale/flat/307205775/,Москва,sale,flat,4,6,1,59.35,-1,0,101785250,Мещанский, Кузнецкий Мост,12/3С1,Кузнецкий мост,Kuznetsky Most 12 by Lalique
+OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/294476646/,Москва,sale,flat,3,5,1,31.0,-1,0,18500000,Пресненский, Юлиуса Фучика,2/30,Маяковская,
+Sminex,developer,https://www.cian.ru/sale/flat/306154917/,Москва,sale,flat,2,23,2,77.6,-1,0,86100000,Пресненский,,,Улица 1905 года,Лайф Тайм ЖК
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/306226871/,Москва,sale,flat,3,14,2,106.9,-1,0,160350000,Хамовники,переулок 1-й Тружеников,16,Киевская,Brodsky
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/306378692/,Москва,sale,flat,10,24,2,43.0,-1,0,21000000,Готовая кв-ра в Даниловском е2-комн. квартира,43 м²,,,
+РГ-Девелопмент,developer,https://www.cian.ru/sale/flat/307196512/,Москва,sale,flat,4,20,2,36.0,-1,0,14260428,Головинский,Михалковская ,48С4,Коптево,Михалковский
+ZIP Realty,real_estate_agent,https://www.cian.ru/sale/flat/307496200/,Москва,sale,flat,1,10,1,31.0,-1,0,14500000,Раменки,Мичуринский проспект,10К1,Ломоносовский проспект,
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+ID 47664046,unknown,https://www.cian.ru/sale/flat/308165149/,Москва,sale,flat,10,12,2,52.0,-1,0,13200000,Царицыно,Луганская ,3К2,Царицыно,
+Hutton Development,developer,https://www.cian.ru/sale/flat/305627324/,Москва,sale,flat,4,17,2,88.1,-1,0,51098000,Гагаринский,Ленинский проспект,38,Ленинский проспект,Lunar
+PEOPLE,real_estate_agent,https://www.cian.ru/sale/flat/306829886/,Москва,sale,flat,5,14,2,73.1,-1,0,65520000,Замоскворечье,Мытная ,7с1,Серпуховская,Английский квартал
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/307751811/,Москва,sale,flat,3,8,2,57.0,-1,0,46900000,Тверской,Тверская ,17,Пушкинская,
+FORMA,developer,https://www.cian.ru/sale/flat/306305906/,Москва,sale,flat,5,33,2,64.67,-1,0,37928955,Пресненский, Пресненский Вал,27С6,Белорусская,Republic
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/307963741/,Москва,sale,flat,1,16,2,56.0,-1,0,13750000,Очаково-Матвеевское,Матвеевская ,6,Матвеевская,
+HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/307091345/,Москва,sale,flat,16,17,1,35.1,-1,0,16800000,Ярославский,Ярославское шоссе,51,ВДНХ,Я51
+Основа,developer,https://www.cian.ru/sale/flat/287741366/,Москва,sale,flat,10,13,2,50.0,-1,0,29946000,Замоскворечье,Большой Строченовский переулок,9,Павелецкая,Резиденции Замоскворечье
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/305024150/,Москва,sale,flat,12,16,2,54.0,-1,0,16399000,Можайский,Можайское шоссе,33,Рабочий посёлок,
+ЦеНтр ПИК,real_estate_agent,https://www.cian.ru/sale/flat/308852244/,Москва,sale,flat,21,22,2,39.9,-1,0,11500000,, Картмазовские Пруды,2к3,Филатов Луг,Филатов луг
+Донстрой,developer,https://www.cian.ru/sale/flat/308371188/,Москва,sale,flat,2,49,2,69.7,-1,0,30486780,Раменки,Кинематографический кв-л,,Мичуринский проспект,Событие ЖК
+ZAPAD REALTY - офис Маршала Жукова,real_estate_agent,https://www.cian.ru/sale/flat/307103955/,Москва,sale,flat,24,24,2,58.0,-1,0,37490000,Хорошево-Мневники,Шелепихинская набережная,34к3,Шелепиха,Сердце Столицы
+do A.S.A.P.,real_estate_agent,https://www.cian.ru/sale/flat/308912854/,Москва,sale,flat,2,9,2,64.0,-1,0,27200000,Лефортово,Красноказарменная ,14Ак4,Авиамоторная,Лефортово парк
+Мангазея,developer,https://www.cian.ru/sale/flat/308903203/,Москва,sale,flat,6,41,2,64.8,-1,0,32937840,Даниловский,Большая Тульская ,10С5,Тульская,Мангазея на Тульской
+BRIGHT ESTATE - городская недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/303778337/,Москва,sale,flat,9,14,2,99.9,-1,0,134500000,Хамовники, Усачева,15А,Спортивная,Садовые кварталы
+CENTURY 21 Столичная недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/307430903/,Москва,sale,flat,4,15,1,53.36,-1,0,13950000,, Татьянин Парк,16к1,Говорово,
+Главстрой,developer,https://www.cian.ru/sale/flat/296921064/,Москва,sale,flat,2,16,1,45.0,-1,0,23274675,Филевский парк,Береговой проезд,2,Фили,Береговой-2
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/307079313/,Москва,sale,flat,9,14,2,77.0,-1,0,62000000,Раменки,проспект Генерала Дорохова,39к1Г,Минская,Собрание клубных домов West Garden
+CENTURY 21 Столичная недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/308852081/,Москва,sale,flat,4,20,2,71.0,-1,0,14250000,, Барышевская Роща,12,Щербинка,Прима-Парк
+Sminex,developer,https://www.cian.ru/sale/flat/308011961/,Москва,sale,flat,3,6,2,207.3,-1,0,582330000,Хамовники,3-й Обыденский переулок,1С1,Кропоткинская,Клубный дом Обыденский № 1
+ID 85604823,unknown,https://www.cian.ru/sale/flat/305015991/,Москва,sale,flat,26,41,2,50.0,-1,0,34000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+Villagio Realty,real_estate_agent,https://www.cian.ru/sale/flat/308633321/,Москва,sale,flat,7,25,2,62.9,-1,0,20500000,Покровское-Стрешнево, Большая Набережная,19к3,Тушинская,
+Tekta Group,developer,https://www.cian.ru/sale/flat/301260593/,Москва,sale,flat,4,27,2,40.5,-1,0,25037100,Даниловский,,1,Крестьянская застава,Эра ЖК
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/307826522/,Москва,sale,flat,3,9,2,148.5,-1,0,189000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+SPENСER ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/301635513/,Москва,sale,flat,6,10,2,54.2,-1,0,26500000,Дорогомилово,Кутузовский проспект,4/2,Киевская,
+Основа,developer,https://www.cian.ru/sale/flat/289516336/,Москва,sale,flat,21,29,2,62.3,-1,0,26038421,Фили-Давыдково, Ивана Франко,6,Кунцевская,MainStreet
+Century 21 Street Realty,real_estate_agent,https://www.cian.ru/sale/flat/297469215/,Москва,sale,flat,8,9,2,64.2,-1,0,77000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+Андрей Вдовин,realtor,https://www.cian.ru/sale/flat/278701200/,Москва,sale,flat,2,15,1,31.9,-1,0,11758286,Хорошевский,Ходынский бульвар,2,ЦСКА,Лайнер
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Галс-Девелопмент,developer,https://www.cian.ru/sale/flat/306243017/,Москва,sale,flat,2,27,1,45.7,-1,0,21798900,Басманный, Фридриха Энгельса,56С9,Бауманская,Дом 56
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/302630222/,Москва,sale,flat,25,45,1,64.0,-1,0,40999999,Дорогомилово,Кутузовский проезд,16А/1,Шелепиха,River Park Кутузовский
+3SGroup,developer,https://www.cian.ru/sale/flat/305952762/,Москва,sale,flat,3,17,1,26.2,-1,0,7511582,,,,Корниловская,FOREVILLE
+КОРТРОС,developer,https://www.cian.ru/sale/flat/306796067/,Москва,sale,flat,18,51,2,45.9,-1,0,25153200,Пресненский,Шелепихинское шоссе,,Шелепиха,Headliner
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/303137027/,Москва,sale,flat,2,5,2,106.0,-1,0,155000000,Тверской,Никольская ,10,Площадь Революции,St. Nickolas
+ID 123285542,homeowner,https://www.cian.ru/sale/flat/308570652/,Москва,sale,flat,16,17,2,60.4,-1,0,18200000,, Корнея Чуковского,3,Рассказовка,
+Концерн КРОСТ,developer,https://www.cian.ru/sale/flat/298380230/,Москва,sale,flat,8,19,2,57.7,-1,0,28388400,Щукино, Расплетина,2к1,Октябрьское поле,Театральный квартал
+ESSE REAL ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/308363866/,Москва,sale,flat,3,9,2,37.0,-1,0,13199000,Бабушкинский,Староватутинский проезд,3,Бабушкинская,
+ID 94542124,homeowner,https://www.cian.ru/sale/flat/308767223/,Москва,sale,flat,5,18,2,39.9,-1,0,22500000,Левобережный,Фестивальная ,15К4,Речной вокзал,Фестиваль парк-2
+Capital Group,developer,https://www.cian.ru/sale/flat/305787512/,Москва,sale,flat,40,67,2,73.2,-1,0,84180000,Пресненский,Краснопресненская набережная,14Ак1,Москва-Сити,Capital Towers
+hoomie,real_estate_agent,https://www.cian.ru/sale/flat/305679592/,Москва,sale,flat,7,20,1,43.09,-1,0,20252300,Даниловский,Автозаводская ,26,Тульская,FORST
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/308803035/,Москва,sale,flat,3,8,2,57.7,-1,0,25499000,Гагаринский,Ленинский проспект,57,Вавиловская,
+MR Group,developer,https://www.cian.ru/sale/flat/300288940/,Москва,sale,flat,37,54,1,38.99,-1,0,19328123,Савеловский,2-я Хуторская ,34,Дмитровская,SYMPHONY 34
+ID 112591621,homeowner,https://www.cian.ru/sale/flat/308498116/,Москва,sale,flat,13,47,2,51.0,-1,0,32950000,Дорогомилово,Кутузовский проезд,16А/1,Фили,River Park Кутузовский
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/293510493/,Москва,sale,flat,8,22,2,87.2,-1,0,38000000,Раменки, Пырьева,9К1,Поклонная,
+Основа,developer,https://www.cian.ru/sale/flat/286250328/,Москва,sale,flat,13,19,2,52.9,-1,0,47610000,Красносельский,проспект Академика Сахарова,7,Красные ворота,RED7
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/303761033/,Москва,sale,flat,31,65,2,51.1,-1,0,50000000,Пресненский,Краснопресненская набережная,14Ак2,Москва-Сити,Capital Towers
+GRAND ESTATE - Премиальная недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/307996388/,Москва,sale,flat,2,5,2,60.0,-1,0,38500000,Хамовники,Комсомольский проспект,14/1К3,Парк Культуры,
+Группа Родина,developer,https://www.cian.ru/sale/flat/305467910/,Москва,sale,flat,2,23,2,61.0,-1,0,31127000,Ростокино,,к6,Ботанический сад,Союз ЖК
+Павел Михайлов,realtor,https://www.cian.ru/sale/flat/308082096/,Москва,sale,flat,12,16,1,44.0,-1,0,26296000,Раменки,проспект Генерала Дорохова,39к2Л,Минская,Собрание клубных домов West Garden
+Webster,real_estate_agent,https://www.cian.ru/sale/flat/307945716/,Москва,sale,flat,3,8,2,55.5,-1,0,24000000,Ломоносовский, Строителей,7К1,Университет,
+Capital Group,developer,https://www.cian.ru/sale/flat/307771799/,Москва,sale,flat,11,18,2,45.8,-1,0,56907301,Дорогомилово,,,Москва-Сити,Бадаевский ЖК
+HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/300199357/,Москва,sale,flat,14,58,2,60.2,-1,0,21000000,Ростокино,проспект Мира,188Бк1,Ростокино,Триколор
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/300133660/,Москва,sale,flat,3,3,2,107.8,-1,0,70000000,Покровское-Стрешнево,Ленинградское шоссе,23к1,Балтийская,TWEED PARK
+Донстрой,developer,https://www.cian.ru/sale/flat/304095085/,Москва,sale,flat,7,19,2,55.8,-1,0,31934340,Хорошево-Мневники,Жилой комплекс остров,4,Мнёвники,Остров
+Villagio Realty,real_estate_agent,https://www.cian.ru/sale/flat/308759283/,Москва,sale,flat,8,11,2,73.4,-1,0,70000000,Тверской,Лесная ,4с1,Белорусская,
+ОЛ ИНКЛЮЗИВ,real_estate_agent,https://www.cian.ru/sale/flat/307696261/,Москва,sale,flat,13,25,2,45.7,-1,0,12890000,Покровское-Стрешнево,Волоколамское шоссе,81/2с3,Трикотажная,Апартаментный комплекс Level Стрешнево
+Галс-Девелопмент,developer,https://www.cian.ru/sale/flat/308081007/,Москва,sale,flat,4,6,1,50.2,-1,0,57228000,Замоскворечье,Космодамианская набережная,4/22С9,Новокузнецкая,Клубный дом Космо 4/22
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Владислав Карпов,realtor,https://www.cian.ru/sale/flat/308833375/,Москва,sale,flat,15,28,1,40.0,-1,0,30500000,Раменки,Винницкая ,8к3,Раменки,Настоящее
+Estes,real_estate_agent,https://www.cian.ru/sale/flat/307812448/,Москва,sale,flat,27,39,2,63.88,-1,0,32990000,Раменки, Лобачевского,120к1,Аминьевская,Крылья
+РГ-Девелопмент,developer,https://www.cian.ru/sale/flat/307327413/,Москва,sale,flat,2,9,2,56.9,-1,0,12181493,Чертаново Южное,,1.1,Аннино,Варшавские Ворота ЖК
+BARNES International Realty,real_estate_agent,https://www.cian.ru/sale/flat/307505747/,Москва,sale,flat,10,12,1,55.0,-1,0,32500000,Тверской,2-я Брестская ,6,Маяковская,Резиденция Тверская
+HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/293704749/,Москва,sale,flat,4,38,2,65.0,-1,0,23000000,Ростокино,проспект Мира,188Бк4,Ростокино,Триколор
+Sminex,developer,https://www.cian.ru/sale/flat/306566186/,Москва,sale,flat,3,14,2,90.0,-1,0,83890000,Пресненский,Электрический переулок,1кАБ,Белорусская,Элитный квартал Тишинский бульвар
+Marry Lane Group,real_estate_agent,https://www.cian.ru/sale/flat/307494611/,Москва,sale,flat,2,44,1,48.1,-1,0,25000000,Пресненский,Ходынская ,2,Улица 1905 года,Пресня Сити
+NIKA ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/308362463/,Москва,sale,flat,21,37,2,60.1,-1,0,23900000,Раменки,Мосфильмовская ,98к2,Аминьевская,Огни
+Концерн КРОСТ,developer,https://www.cian.ru/sale/flat/306946314/,Москва,sale,flat,2,6,2,44.2,-1,0,26078000,Хорошево-Мневники, Саляма Адиля,2А,Народное Ополчение,Wellton SPA Residence
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/303582856/,Москва,sale,flat,4,21,2,56.2,-1,0,55076000,Пресненский,2-я Звенигородская ,16,Улица 1905 года,Lucky
+Винидиктов и Партнеры,real_estate_agent,https://www.cian.ru/sale/flat/308589364/,Москва,sale,flat,38,40,2,115.4,-1,0,71000000,Обручевский,Профсоюзная ,64к2,Новые Черёмушки,Дирижабль
+Среда,developer,https://www.cian.ru/sale/flat/304753663/,Москва,sale,flat,2,44,1,31.61,-1,0,14381127,Кунцево,48-й кв-л,,Кунцевская,Кутузовский Квартал ЖК
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/306373900/,Москва,sale,flat,13,30,1,93.8,-1,0,28999999,Щукино,проезд 4-й Красногорский,,Стрешнево,Moments
+Plus Development,developer,https://www.cian.ru/sale/flat/308704170/,Москва,sale,flat,3,23,2,41.5,-1,0,8342330,,,,Филатов Луг,Детали ЖК
+MR Group,developer,https://www.cian.ru/sale/flat/308802713/,Москва,sale,flat,2,46,1,34.8,-1,0,16375836,Даниловский,,,Павелецкая,Павелецкая Сити ЖК
+ZAPAD REALTY - офис Маршала Жукова,real_estate_agent,https://www.cian.ru/sale/flat/305658950/,Москва,sale,flat,2,9,2,74.0,-1,0,30000000,Очаково-Матвеевское,Аминьевское шоссе,4Дк2,Аминьевская,Вестердам
+Юлия Полянина,realtor,https://www.cian.ru/sale/flat/300400833/,Москва,sale,flat,19,24,1,37.8,-1,0,13390000,Митино,Муравская ,44к2,Пятницкое шоссе,Митинский лес
+РГ-Девелопмент,developer,https://www.cian.ru/sale/flat/308473239/,Москва,sale,flat,2,27,2,49.5,-1,0,21208325,Щукино,,,Щукинская,Октябрьское Поле ЖК
+ID 109135729,realtor,https://www.cian.ru/sale/flat/307434429/,Москва,sale,flat,3,21,2,59.2,-1,0,61000000,Пресненский, Костикова,4к1,Улица 1905 года,Lucky
+Эльдар Кудинов,realtor,https://www.cian.ru/sale/flat/308944363/,Москва,sale,flat,2,12,1,28.2,-1,0,12800000,Раменки,Мичуринский проспект,38,Раменки,
+MR Group,developer,https://www.cian.ru/sale/flat/306067906/,Москва,sale,flat,2,57,2,40.53,-1,0,26210751,Филевский парк,,,Фили,Фили Сити ЖК
+NIKA ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/299655879/,Москва,sale,flat,14,24,2,46.0,-1,0,31000000,Очаково-Матвеевское,Нежинская ,5к2,Матвеевская,Городские резиденции SPIRES
+Основа,developer,https://www.cian.ru/sale/flat/286347121/,Москва,sale,flat,2,29,2,45.7,-1,0,14788520,Черемушки, Наметкина,вл10,Новые Черёмушки,Nametkin Tower
+Главстрой,developer,https://www.cian.ru/sale/flat/307942491/,Москва,sale,flat,7,35,1,39.22,-1,0,18847239,Котловка,31/2,31/2,Профсоюзная,Новые Академики ЖК
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/296106356/,Москва,sale,flat,6,7,2,96.0,-1,0,260000000,Хамовники, Льва Толстого,23к1,Парк Культуры,Литератор
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/306826191/,Москва,sale,flat,4,4,2,75.7,-1,0,35900000,Марьина роща,проезд 12-й Марьиной рощи,8С2,Марьина Роща,Лофт-квартал Studio #12
+Forma,developer,https://www.cian.ru/sale/flat/299852244/,Москва,sale,flat,16,29,2,65.2,-1,0,25687170,Аэропорт,Часовая ,28к8,Сокол,SOUL
+ZAPAD REALTY - офис Маршала Жукова,real_estate_agent,https://www.cian.ru/sale/flat/308064930/,Москва,sale,flat,5,24,2,75.0,-1,0,48000000,Хорошево-Мневники,Шелепихинская набережная,34к3,Шелепиха,Сердце Столицы
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+SUNRISE Estate,real_estate_agent,https://www.cian.ru/sale/flat/308738584/,Москва,sale,flat,18,41,1,30.2,-1,0,15600000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+Мангазея,developer,https://www.cian.ru/sale/flat/308902252/,Москва,sale,flat,9,21,2,74.2,-1,0,36448375,Щукино,Щукинская ,,Щукинская,Интонация
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/304869833/,Москва,sale,flat,44,44,2,86.3,-1,0,38000000,Хорошево-Мневники, Шеногина,,Шелепиха,Sydney City
+Est-a-Tet Агент,real_estate_agent,https://www.cian.ru/sale/flat/308886354/,Москва,sale,flat,25,28,2,57.9,-1,0,33200000,Раменки,Винницкая ,8к4,Раменки,Настоящее
+Tekta Group,developer,https://www.cian.ru/sale/flat/305021240/,Москва,sale,flat,24,34,1,30.0,-1,0,17691000,Обручевский,,,Воронцовская,Эвер ЖК
+ID 88675389,unknown,https://www.cian.ru/sale/flat/299351553/,Москва,sale,flat,2,6,2,70.0,-1,0,31600000,Москворечье-Сабурово,переулок 1-й Котляковский,2Ак3,Варшавская,LIFE Варшавская
+BERI,real_estate_agent,https://www.cian.ru/sale/flat/308009678/,Москва,sale,flat,12,17,2,57.8,-1,0,27927000,Раменки,Мичуринский проспект,21К1,Раменки,
+MR Group,developer,https://www.cian.ru/sale/flat/308909121/,Москва,sale,flat,6,13,1,85.04,-1,0,130383328,Мещанский,Садовая-Сухаревская ,14,Цветной бульвар,Клубный дом Forum
+Никита Гаврилов,realtor,https://www.cian.ru/sale/flat/308929771/,Москва,sale,flat,5,17,2,60.0,-1,0,18550000,Марьино,Новочеркасский бульвар,47,Марьино,
+Estes,real_estate_agent,https://www.cian.ru/sale/flat/308894978/,Москва,sale,flat,13,17,2,67.7,-1,0,27700000,Даниловский, Трофимова,9К2,Автозаводская,
+MR Group,developer,https://www.cian.ru/sale/flat/307999752/,Москва,sale,flat,6,59,2,34.6,-1,0,13833080,Можайский,Верейская ,29С32А,Давыдково,SET
+ID 13044325,unknown,https://www.cian.ru/sale/flat/308859379/,Москва,sale,flat,22,32,1,37.35,-1,0,17780000,Нижегородский,Газгольдерная ,10,Нижегородская,Profit
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/296565916/,Москва,sale,flat,4,8,2,65.0,-1,0,39900000,Тверской,Благовещенский переулок,5,Маяковская,
+Стадион Спартак,developer,https://www.cian.ru/sale/flat/298406172/,Москва,sale,flat,4,13,2,66.7,-1,0,32609630,Покровское-Стрешнево,Вивальди кв-л,,Спартак,Клубный Город на Реке Примавера ЖК
+BRAUMOST,real_estate_agent,https://www.cian.ru/sale/flat/293943948/,Москва,sale,flat,5,10,1,48.5,-1,0,23500000,Покровское-Стрешнево,Вивальди кв-л,,Спартак,Клубный Город на Реке Примавера ЖК
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/307295985/,Москва,sale,flat,3,24,1,42.6,-1,0,21500000,Даниловский,Автозаводская ,23Бк2,ЗИЛ,Парк Легенд
+MR Group,developer,https://www.cian.ru/sale/flat/307788196/,Москва,sale,flat,18,47,2,57.84,-1,0,25912320,Хорошево-Мневники,,,Полежаевская,Джойс ЖК
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/306079971/,Москва,sale,flat,15,20,2,79.4,-1,0,29870000,Нагатино-Садовники,Варшавское шоссе,37АК1,Нагатинская,Rotterdam
+Apple Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/296403571/,Москва,sale,flat,4,8,2,64.0,-1,0,39900000,Тверской,Благовещенский переулок,5,Маяковская,
+Regions Development,developer,https://www.cian.ru/sale/flat/308070861/,Москва,sale,flat,11,24,2,58.1,-1,0,,Нагатинский затон,проспект Андропова,9/1к2,Технопарк,Dream Towers
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/301042658/,Москва,sale,flat,24,79,1,72.0,-1,0,70000000,Пресненский,1-й Красногвардейский проезд,22с1,Москва-Сити,NEVA TOWERS
+PROНЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/sale/flat/306924872/,Москва,sale,flat,10,12,2,44.0,-1,0,10800000,Дмитровский,Клязьминская ,4,Грачёвская,
+Sminex,developer,https://www.cian.ru/sale/flat/293713671/,Москва,sale,flat,2,14,1,72.6,-1,0,139410000,Якиманка,,,Полянка,Лаврушинский ЖК
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/308239254/,Москва,sale,flat,12,19,2,84.0,-1,0,59000000,Хорошево-Мневники,Шелепихинская набережная,34к2,Шелепиха,Сердце Столицы
+ID 52259631,realtor,https://www.cian.ru/sale/flat/308377607/,Москва,sale,flat,13,14,2,38.4,-1,0,14000000,Чертаново Центральное,Чертановская ,43К1,Пражская,
+Аеон-Девелопмент,developer,https://www.cian.ru/sale/flat/302037458/,Москва,sale,flat,2,46,2,63.8,-1,0,44757291,Дорогомилово,Кутузовский проезд,16А/1,Фили,River Park Кутузовский
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/305738210/,Москва,sale,flat,18,79,2,71.8,-1,0,48000000,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити,NEVA TOWERS
+OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/308760982/,Москва,sale,flat,5,24,1,39.1,-1,0,19800000,Фили-Давыдково, Герасима Курина,18,Славянский бульвар,
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Таврида Девелопмент,developer,https://krym.cian.ru/sale/flat/308884460/,можайск,sale,flat,2,20,2,46.3,-1,0,18983000,,,,,Новая Ливадия
+ID 12530791,unknown,https://www.cian.ru/sale/flat/303761506/,можайск,sale,flat,38,78,1,58.0,-1,0,58500000,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити,NEVA TOWERS
+PROНЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/sale/flat/308789447/,можайск,sale,flat,11,12,1,33.5,-1,0,8000000,Чертаново Южное,3-й Дорожный проезд,6К1,Улица Академика Янгеля,
+Дипломат,developer,https://krym.cian.ru/sale/flat/292125018/,можайск,sale,flat,2,8,2,66.0,-1,0,22622160,,,,,Резиденция Дипломат
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308553708/,можайск,sale,flat,9,12,2,88.0,-1,0,59350000,Тверской,2-я Брестская ,6,Маяковская,Резиденция Тверская
+ID 123328834,homeowner,https://www.cian.ru/sale/flat/308676848/,можайск,sale,flat,6,14,1,36.0,-1,0,13700000,Перово,Мартеновская ,11/12,Новогиреево,
+Таврида Девелопмент,developer,https://krym.cian.ru/sale/flat/304428700/,можайск,sale,flat,2,20,1,25.04,-1,0,10141200,,,,,Новая Ливадия
+hoomie,real_estate_agent,https://www.cian.ru/sale/flat/305679467/,можайск,sale,flat,4,20,2,64.29,-1,0,24166611,Даниловский,Автозаводская ,26,Тульская,FORST
+do A.S.A.P.,real_estate_agent,https://www.cian.ru/sale/flat/306451958/,можайск,sale,flat,3,12,2,37.0,-1,0,9500000,Западное Дегунино,Коровинское шоссе,9К1,Селигерская,
+Дипломат,developer,https://krym.cian.ru/sale/flat/292124957/,можайск,sale,flat,2,5,1,65.7,-1,0,24860880,,,,,Резиденция Дипломат
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308553460/,можайск,sale,flat,9,12,2,99.0,-1,0,96750000,Тверской,2-я Брестская ,6,Маяковская,Резиденция Тверская
+Светлана Анисимова,realtor,https://www.cian.ru/sale/flat/308703083/,можайск,sale,flat,21,31,2,55.7,-1,0,21990000,Богородское,Тюменский проезд,3к1,Бульвар Рокоссовского,Преображение
+Неометрия,developer,https://sochi.cian.ru/sale/flat/302445049/,можайск,sale,flat,2,10,2,33.0,-1,0,31491900,Адлерский,Адлер жилрайон,,,Гостиничный комплекс 
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/306566143/,можайск,sale,flat,6,7,2,96.0,-1,0,260000000,Хамовники, Льва Толстого,23к7с3,Парк Культуры,
+Солнечный Сочи,real_estate_agent,https://sochi.cian.ru/sale/flat/308303850/,можайск,sale,flat,24,26,2,105.0,-1,0,8000000,Хостинский,Курортный проспект,105,,
+Сармат,developer,https://krasnodar.cian.ru/sale/flat/307540476/,можайск,sale,flat,2,16,2,64.3,-1,0,6751500,Прикубанский, Западный обход,65/1,,Cармат
+ID 10601,realtor,https://www.cian.ru/sale/flat/307801822/,можайск,sale,flat,5,5,2,42.3,-1,0,28300000,Тверской,Тверская ,27С1,Маяковская,
+Mikhail Uger,realtor,https://www.cian.ru/sale/flat/304113525/,можайск,sale,flat,17,25,1,36.8,-1,0,9900000,Чертаново Северное,Северное Чертаново мкр,7кБ,Чертановская,
+Интеллект,developer,https://krym.cian.ru/sale/flat/306043753/,можайск,sale,flat,5,13,2,36.33,-1,0,12249111,,,,,Парковая Резиденция
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308343895/,можайск,sale,flat,8,29,2,69.1,-1,0,31095000,Якиманка,Мытная ,40к3,Шаболовская,Sky House
+Диалог Риэлт,real_estate_agent,https://lyubertsy.cian.ru/sale/flat/308678545/,можайск,sale,flat,4,4,1,31.9,-1,0,4000000,Октябрьский рп, Комсомольская,11,,
+Неометрия,developer,https://sochi.cian.ru/sale/flat/302444728/,можайск,sale,flat,8,10,1,22.2,-1,0,26140500,Адлерский,Адлер жилрайон,,,Гостиничный комплекс 
+ID 85604823,unknown,https://www.cian.ru/sale/flat/308497818/,можайск,sale,flat,16,41,2,51.0,-1,0,34000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+ID 98396578,homeowner,https://www.cian.ru/sale/flat/308733860/,можайск,sale,flat,1,9,2,45.0,-1,0,17800000,Красносельский,Протопоповский переулок,38,Площадь трёх вокзалов,
+Сармат,developer,https://krasnodar.cian.ru/sale/flat/307540724/,можайск,sale,flat,2,16,1,37.9,-1,0,5306000,Прикубанский, Западный обход,65/1,,Cармат
+ID 85604823,unknown,https://www.cian.ru/sale/flat/305768574/,можайск,sale,flat,6,42,1,42.0,-1,0,29000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+Никита Гаврилов,realtor,https://www.cian.ru/sale/flat/308711044/,можайск,sale,flat,8,22,1,40.0,-1,0,13290000,Марьино, Верхние Поля,36К2,Люблино,
+Интеллект,developer,https://krym.cian.ru/sale/flat/295983885/,можайск,sale,flat,2,13,1,38.3,-1,0,12928244,,,,,Парковая Резиденция
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+ID 85604823,unknown,https://www.cian.ru/sale/flat/307014462/,можайск,sale,flat,6,42,1,42.0,-1,0,29000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+GRAND ESTATE - Премиальная недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/305111360/,можайск,sale,flat,4,16,2,37.0,-1,0,19000000,Пресненский,Красногвардейский бульвар,5К2,Москва-Сити,
+Интеллект,developer,https://krym.cian.ru/sale/flat/291497607/,можайск,sale,flat,2,20,2,49.18,-1,0,12718487,,,,,Крымская Резиденция
+SHOW ME,real_estate_agent,https://www.cian.ru/sale/flat/272003903/,можайск,sale,flat,5,6,2,43.0,-1,0,26900000,Беговой, 3-я Ямского Поля,9,Белорусская,Art Residence
+Залму Писарук,realtor,https://www.cian.ru/sale/flat/308532820/,можайск,sale,flat,7,12,2,55.0,-1,0,13400000,Бирюлево Восточное,Лебедянская ,4,,
+Эталон,developer,https://ekb.cian.ru/sale/flat/308412109/,можайск,sale,flat,3,5,2,40.69,-1,0,5821699,,,,,Балтым-Парк
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/301258691/,можайск,sale,flat,2,21,2,57.23,-1,0,59000000,Пресненский,2-я Звенигородская ,16,Улица 1905 года,Lucky
+Зульфия  Галяутдинова,realtor,https://www.cian.ru/sale/flat/308225788/,можайск,sale,flat,13,14,2,61.0,-1,0,29000000,Гагаринский,Университетский проспект,6К2,Воробьёвы горы,
+Перспектива,developer,https://krym.cian.ru/sale/flat/305496512/,можайск,sale,flat,3,8,2,76.9,-1,0,23000000,Восход пгт, Наташинская,2Ж,,Монако
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/307822693/,можайск,sale,flat,9,18,2,66.4,-1,0,69700000,Хамовники,,,Воробьёвы горы,Коллекция Лужники ЖК
+ЛЮДИ ДЛЯ ЛЮДЕЙ,real_estate_agent,https://spb.cian.ru/sale/flat/305602913/,можайск,sale,flat,4,7,1,31.1,-1,0,6000000,Калининский,проспект Науки,40,Академическая,
+СК10,developer,https://rostov.cian.ru/sale/flat/289997272/,можайск,sale,flat,19,25,2,38.54,-1,0,5140000,Советский,,,,Малина парк
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/298050405/,можайск,sale,flat,7,9,2,108.3,-1,0,154000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+ТСН Владис,real_estate_agent,https://balashikha.cian.ru/sale/flat/303023571/,можайск,sale,flat,4,5,1,30.3,-1,0,3899000,,шоссе Энтузиастов,57,Салтыковская,
+РКС Девелопмент,developer,https://krasnodar.cian.ru/sale/flat/306944508/,можайск,sale,flat,2,7,2,56.5,-1,0,13627800,,,,,Anapolis Residence
+hoomie,real_estate_agent,https://www.cian.ru/sale/flat/305679729/,можайск,sale,flat,9,20,2,59.0,-1,0,25370000,Даниловский,,,Тульская,Форст ЖК
+ID 74991203,homeowner,https://www.cian.ru/sale/flat/308079051/,можайск,sale,flat,3,24,2,53.2,-1,0,19570000,Донской,Новоданиловская набережная,8к2,Верхние котлы,Новоданиловская 8
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/306297919/,можайск,sale,flat,2,18,2,49.5,-1,0,7730000,Верх-Исетский,,,Площадь 1905 года,Русь XXI ЖК
+White and Broughton,real_estate_agent,https://www.cian.ru/sale/flat/299890518/,можайск,sale,flat,9,40,1,41.5,-1,0,32000000,Хорошевский,Ленинградский проспект,37/4,ЦСКА,Прайм Парк
+Святослав Пивненко,realtor,https://spb.cian.ru/sale/flat/307823563/,можайск,sale,flat,4,17,2,74.0,-1,0,17300000,Приморский,аллея Поликарпова,6к1,Пионерская,
+Интеллект,developer,https://krym.cian.ru/sale/flat/306356337/,можайск,sale,flat,7,20,1,24.84,-1,0,8609974,,,,,Крымская Резиденция
+Century 21 Street Realty,real_estate_agent,https://www.cian.ru/sale/flat/304519685/,можайск,sale,flat,39,41,2,56.9,-1,0,39000000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+ID 7150714,homeowner,https://spb.cian.ru/sale/flat/308695839/,можайск,sale,flat,2,5,2,46.0,-1,0,18000000,Петроградский,Каменноостровский проспект,64С,Петроградская,
+Эталон,developer,https://ekb.cian.ru/sale/flat/308412177/,можайск,sale,flat,2,5,1,38.08,-1,0,5498522,,,,,Балтым-Парк
+PEOPLE,real_estate_agent,https://www.cian.ru/sale/flat/305909779/,можайск,sale,flat,6,10,2,178.1,-1,0,150000000,Тверской,Большая Грузинская ,69,Белорусская,Четыре Ветра
+ID 47664046,unknown,https://www.cian.ru/sale/flat/308204535/,можайск,sale,flat,5,17,2,65.2,-1,0,21500000,Черемушки,Профсоюзная ,30К2,Профсоюзная,
+Перспектива,developer,https://krym.cian.ru/sale/flat/305496510/,можайск,sale,flat,2,8,1,70.3,-1,0,16000000,Восход пгт, Наташинская,2Ж,,Монако
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/305274218/,можайск,sale,flat,2,5,2,84.63,-1,0,139639500,Басманный,Потаповский переулок,6С1,Чистые пруды,Абрикосов
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+OPN PARTNER,real_estate_agent,https://krasnogorsk.cian.ru/sale/flat/299929933/,можайск,sale,flat,2,7,2,55.0,-1,0,8899000,с. Николо-Урюпино, Полковника Глазунова,15,,Лесобережный
+СК10,developer,https://rostov.cian.ru/sale/flat/303045403/,можайск,sale,flat,24,25,1,33.37,-1,0,4110000,Советский,,,,Малина парк
+Point Estate Город,real_estate_agent,https://www.cian.ru/sale/flat/307575540/,можайск,sale,flat,4,21,2,54.0,-1,0,59000000,Пресненский,2-я Звенигородская ,16,Улица 1905 года,Lucky
+BrokerStreet,representative_developer,https://kaliningrad.cian.ru/sale/flat/301978164/,можайск,sale,flat,2,14,2,65.8,-1,0,9343600,Ленинградский,,,,Вдохновение ЖК
+РКС Девелопмент,developer,https://krasnodar.cian.ru/sale/flat/308252390/,можайск,sale,flat,2,7,1,41.7,-1,0,10491720,,,,,Anapolis Residence
+White and Broughton,real_estate_agent,https://www.cian.ru/sale/flat/301763282/,можайск,sale,flat,39,41,2,56.9,-1,0,40000000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+ID 95814020,realtor,https://www.cian.ru/sale/flat/308490853/,можайск,sale,flat,12,17,2,71.0,-1,0,17500000,, Никитина,11к4,Рассказовка,
+СК10,developer,https://rostov.cian.ru/sale/flat/304874044/,можайск,sale,flat,15,24,2,52.95,-1,0,9160000,Кировский,Красноармейская ,250,,Космос
+White and Broughton,real_estate_agent,https://www.cian.ru/sale/flat/301550653/,можайск,sale,flat,13,41,1,41.5,-1,0,31000000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+ID 116114838,homeowner,https://www.cian.ru/sale/flat/308719974/,можайск,sale,flat,2,11,2,42.4,-1,0,12850000,,бульвар Веласкеса,7к1,Ольховая,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/306297927/,можайск,sale,flat,3,18,1,34.1,-1,0,5901000,Верх-Исетский,,,Площадь 1905 года,Русь XXI ЖК
+Contact Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/303027445/,можайск,sale,flat,3,20,1,59.0,-1,0,61800000,Пресненский, Костикова,4к6,Улица 1905 года,Lucky
+Юрий Шадеко,realtor,https://spb.cian.ru/sale/flat/307347913/,можайск,sale,flat,10,17,1,45.0,-1,0,13900000,Приморский,переулок Ипподромный,3к1,Пионерская,Приморский квартал
+СЗ Феникс,developer,https://rostov.cian.ru/sale/flat/305377450/,можайск,sale,flat,15,19,2,42.1,-1,0,8129999,Советский,проспект Стачки,198В,,Times
+ID 52825739,homeowner,https://www.cian.ru/sale/flat/307814530/,можайск,sale,flat,7,15,2,46.5,-1,0,23900000,Хорошевский,Ходынский бульвар,20А,ЦСКА,Лайнер
+Этажи Москва,real_estate_agent,https://lyubertsy.cian.ru/sale/flat/308675651/,можайск,sale,flat,1,3,1,33.6,-1,0,4800000,,,,,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/305791387/,можайск,sale,flat,6,23,2,52.3,-1,0,6892000,Кировский,,,Машиностроителей,Основинские кварталы ЖК
+ZIP Realty,real_estate_agent,https://www.cian.ru/sale/flat/303387198/,можайск,sale,flat,18,22,1,30.0,-1,0,11700000,,бульвар Андрея Тарковского,11,Рассказовка,Рассказово
+ID 17498307,homeowner,https://www.cian.ru/sale/flat/308837547/,можайск,sale,flat,5,10,1,40.4,-1,0,28900000,Дорогомилово,Кутузовский проспект,30,Кутузовская,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/301967067/,можайск,sale,flat,22,28,2,48.1,-1,0,11409000,Центр, Свердлова,10,Динамо,Екатерининский парк
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/308872981/,можайск,sale,flat,37,37,2,48.0,-1,0,42500000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+ID 81467774,homeowner,https://www.cian.ru/sale/flat/306073042/,можайск,sale,flat,3,17,1,38.0,-1,0,13700000,Свиблово,Вересковая ,1К1,Свиблово,
+ЭНКО,representative_developer,https://tyumen.cian.ru/sale/flat/301181335/,можайск,sale,flat,2,12,2,52.68,-1,0,6460000,д. Патрушева, Петра Ершова,12,,ЖР 
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/303534103/,можайск,sale,flat,16,25,1,34.0,-1,0,9700000,,,7,Ольховая,
+Ю-Питер,real_estate_agent,https://www.cian.ru/sale/flat/308901152/,можайск,sale,flat,14,16,2,50.5,-1,0,14000000,Отрадное, Бестужевых,13,Отрадное,
+СЗ Феникс,developer,https://rostov.cian.ru/sale/flat/293615913/,можайск,sale,flat,4,13,1,47.1,-1,0,8379202,Советский,,,,Таймс ЖК
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/302177521/,можайск,sale,flat,3,15,2,58.54,-1,0,61000000,Пресненский, Костикова,4к4,Улица 1905 года,Lucky
+Доступный дом,real_estate_agent,https://www.cian.ru/sale/flat/293926786/,можайск,sale,flat,3,17,1,35.4,-1,0,14990000,, Эдварда Грига,15,Потапово,
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+СК10,developer,https://rostov.cian.ru/sale/flat/306489398/,можайск,sale,flat,2,9,2,40.15,-1,0,5230000,Железнодорожный,бульвар Платова,14,,Сезоны
+ID 85604823,unknown,https://www.cian.ru/sale/flat/305015991/,можайск,sale,flat,26,41,2,50.0,-1,0,34000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/307826522/,можайск,sale,flat,3,9,2,148.5,-1,0,189000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+СК10,developer,https://rostov.cian.ru/sale/flat/297424924/,можайск,sale,flat,23,25,2,38.68,-1,0,5440000,Октябрьский,,,,Гринсайд ЖК
+Century 21 Street Realty,real_estate_agent,https://www.cian.ru/sale/flat/297469215/,можайск,sale,flat,8,9,2,64.2,-1,0,77000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/302630222/,можайск,sale,flat,25,45,1,64.0,-1,0,40999999,Дорогомилово,Кутузовский проезд,16А/1,Шелепиха,River Park Кутузовский
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/306899926/,можайск,sale,flat,14,23,1,34.0,-1,0,4893000,Кировский,,,Машиностроителей,Основинские кварталы ЖК
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/303137027/,можайск,sale,flat,2,5,2,106.0,-1,0,155000000,Тверской,Никольская ,10,Площадь Революции,St. Nickolas
+ESSE REAL ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/308363866/,можайск,sale,flat,3,9,2,37.0,-1,0,13199000,Бабушкинский,Староватутинский проезд,3,Бабушкинская,
+СК10,developer,https://rostov.cian.ru/sale/flat/301539762/,можайск,sale,flat,17,25,2,40.82,-1,0,6370000,Кировский,,,,Культура ЖК
+hoomie,real_estate_agent,https://www.cian.ru/sale/flat/305679592/,можайск,sale,flat,7,20,1,43.09,-1,0,20252300,Даниловский,Автозаводская ,26,Тульская,FORST
+Ю-Питер,real_estate_agent,https://www.cian.ru/sale/flat/308901152/,можайск,sale,flat,14,16,2,50.5,-1,0,14000000,Отрадное, Бестужевых,13,Отрадное,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/302623378/,можайск,sale,flat,2,29,1,34.6,-1,0,8557000,Центр, Свердлова,12,Динамо,Екатерининский парк
+ID 112591621,homeowner,https://www.cian.ru/sale/flat/308498116/,можайск,sale,flat,13,47,2,51.0,-1,0,32950000,Дорогомилово,Кутузовский проезд,16А/1,Фили,River Park Кутузовский
+Павел Михайлов,realtor,https://www.cian.ru/sale/flat/308082096/,можайск,sale,flat,12,16,1,44.0,-1,0,26296000,Раменки,проспект Генерала Дорохова,39к2Л,Минская,Собрание клубных домов West Garden
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/298036722/,можайск,sale,flat,3,24,2,83.8,-1,0,17350000,Центр, Большакова,66,Геологическая,RedRock
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/303761033/,можайск,sale,flat,31,65,2,51.1,-1,0,50000000,Пресненский,Краснопресненская набережная,14Ак2,Москва-Сити,Capital Towers
+HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/307091345/,можайск,sale,flat,16,17,1,35.1,-1,0,16800000,Ярославский,Ярославское шоссе,51,ВДНХ,Я51
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/298038341/,можайск,sale,flat,3,16,2,78.1,-1,0,30792000,Центр, Февральской Революции,21,Динамо,19/05
+HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/300199357/,можайск,sale,flat,14,58,2,60.2,-1,0,21000000,Ростокино,проспект Мира,188Бк1,Ростокино,Триколор
+Marry Lane Group,real_estate_agent,https://www.cian.ru/sale/flat/307494611/,можайск,sale,flat,2,44,1,48.1,-1,0,25000000,Пресненский,Ходынская ,2,Улица 1905 года,Пресня Сити
+ЕкатеринодарИнвест-Строй,developer,https://krasnodar.cian.ru/sale/flat/294667073/,можайск,sale,flat,2,24,1,40.58,-1,0,5264038,мкр. РИП,Российская ,,,Гулливер
+Villagio Realty,real_estate_agent,https://www.cian.ru/sale/flat/308759283/,можайск,sale,flat,8,11,2,73.4,-1,0,70000000,Тверской,Лесная ,4с1,Белорусская,
+Владислав Карпов,realtor,https://www.cian.ru/sale/flat/308833375/,можайск,sale,flat,15,28,1,40.0,-1,0,30500000,Раменки,Винницкая ,8к3,Раменки,Настоящее
+НВМ,developer,https://krasnodar.cian.ru/sale/flat/307997253/,можайск,sale,flat,2,18,2,51.71,-1,0,7756500,,,,,Народные Кварталы
+BARNES International Realty,real_estate_agent,https://www.cian.ru/sale/flat/307505747/,можайск,sale,flat,10,12,1,55.0,-1,0,32500000,Тверской,2-я Брестская ,6,Маяковская,Резиденция Тверская
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/306373900/,можайск,sale,flat,13,30,1,93.8,-1,0,28999999,Щукино,проезд 4-й Красногорский,,Стрешнево,Moments
+Садовое кольцо,developer,https://kazan.cian.ru/sale/flat/308962890/,можайск,sale,flat,10,18,2,61.08,-1,0,18791023,Ново-Савиновский,,,Козья слобода,Савин Фемили ЖК
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/303395042/,можайск,sale,flat,2,25,1,30.4,-1,0,6288000,Орджоникидзевский,,,Машиностроителей,Основинские кварталы ЖК
+ID 85604823,unknown,https://www.cian.ru/sale/flat/305015991/,можайск,sale,flat,26,41,2,50.0,-1,0,34000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+ПАРК АВЕНЮ,developer,https://krasnodar.cian.ru/sale/flat/307199095/,можайск,sale,flat,3,6,2,45.4,-1,0,5902000,Горячий Ключ, Ярославского,100В,,Ярославский
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/307826522/,можайск,sale,flat,3,9,2,148.5,-1,0,189000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+ЭНКО,developer,https://tyumen.cian.ru/sale/flat/297298593/,можайск,sale,flat,2,17,2,52.68,-1,0,6460000,д. Патрушева, Петра Ершова,12,,ЖР 
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/302630222/,можайск,sale,flat,25,45,1,64.0,-1,0,40999999,Дорогомилово,Кутузовский проезд,16А/1,Шелепиха,River Park Кутузовский
+Эталон,developer,https://ekb.cian.ru/sale/flat/308414252/,можайск,sale,flat,11,16,2,47.1,-1,0,6579206,Чкаловский,,,Ботаническая,Жилой район Солнечный
+Century 21 Street Realty,real_estate_agent,https://www.cian.ru/sale/flat/297469215/,можайск,sale,flat,8,9,2,64.2,-1,0,77000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+DOGMA,developer,https://krasnodar.cian.ru/sale/flat/305421053/,можайск,sale,flat,2,18,1,38.3,-1,0,5162840,,,,,Парк Победы - 2
+ESSE REAL ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/308363866/,можайск,sale,flat,3,9,2,37.0,-1,0,13199000,Бабушкинский,Староватутинский проезд,3,Бабушкинская,
+R1 Development,developer,https://ekb.cian.ru/sale/flat/303900194/,можайск,sale,flat,2,8,2,63.63,-1,0,10923108,Орджоникидзевский, Уральских Рабочих,26,Проспект Космонавтов,Банников Дом
+hoomie,real_estate_agent,https://www.cian.ru/sale/flat/305679592/,можайск,sale,flat,7,20,1,43.09,-1,0,20252300,Даниловский,Автозаводская ,26,Тульская,FORST
+Первостроитель,developer,https://ekb.cian.ru/sale/flat/297995554/,можайск,sale,flat,14,25,2,70.6,-1,0,11733000,Кировский, Комсомольская,67,Геологическая,Жилой квартал Комсомольская 67
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/303137027/,можайск,sale,flat,2,5,2,106.0,-1,0,155000000,Тверской,Никольская ,10,Площадь Революции,St. Nickolas
+Ак Барс Дом,developer,https://kazan.cian.ru/sale/flat/300752652/,можайск,sale,flat,16,19,2,50.3,-1,0,9235080,Советский,,3,Горки,Светлая Долина ЖК
+Ю-Питер,real_estate_agent,https://www.cian.ru/sale/flat/308901152/,можайск,sale,flat,14,16,2,50.5,-1,0,14000000,Отрадное, Бестужевых,13,Отрадное,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/298221157/,можайск,sale,flat,3,9,1,55.0,-1,0,18788500,Центр, Михаила Ананьева,,Динамо,Клубный дом инженера Ятеса
+ID 112591621,homeowner,https://www.cian.ru/sale/flat/308498116/,можайск,sale,flat,13,47,2,51.0,-1,0,32950000,Дорогомилово,Кутузовский проезд,16А/1,Фили,River Park Кутузовский
+Средастрой Новороссийск,developer,https://novorossiysk.cian.ru/sale/flat/307130635/,можайск,sale,flat,6,17,1,42.93,-1,0,8800650,,,,,Золотой берег 2
+Павел Михайлов,realtor,https://www.cian.ru/sale/flat/308082096/,можайск,sale,flat,12,16,1,44.0,-1,0,26296000,Раменки,проспект Генерала Дорохова,39к2Л,Минская,Собрание клубных домов West Garden
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/304437850/,можайск,sale,flat,5,8,2,44.6,-1,0,7763000,Верх-Исетский,,,Площадь 1905 года,Русь-2 ЖК
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/303761033/,можайск,sale,flat,31,65,2,51.1,-1,0,50000000,Пресненский,Краснопресненская набережная,14Ак2,Москва-Сити,Capital Towers
+Таврида Девелопмент,developer,https://krym.cian.ru/sale/flat/299892583/,можайск,sale,flat,2,9,2,49.07,-1,0,21968639,Массандра пгт, Мухина,17А,,Клубный дом Массандра Парк
+HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/307091345/,можайск,sale,flat,16,17,1,35.1,-1,0,16800000,Ярославский,Ярославское шоссе,51,ВДНХ,Я51
+Ак Барс Дом,developer,https://kazan.cian.ru/sale/flat/301019681/,можайск,sale,flat,5,22,2,48.02,-1,0,10756480,Советский,ПК1-1,ПК1-1,Горки,Мой Ритм ЖК
+HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/300199357/,можайск,sale,flat,14,58,2,60.2,-1,0,21000000,Ростокино,проспект Мира,188Бк1,Ростокино,Триколор
+ПАРК АВЕНЮ,developer,https://krasnodar.cian.ru/sale/flat/307199106/,можайск,sale,flat,3,6,1,33.4,-1,0,4575800,Горячий Ключ, Ярославского,100В,,Ярославский
+Marry Lane Group,real_estate_agent,https://www.cian.ru/sale/flat/307494611/,можайск,sale,flat,2,44,1,48.1,-1,0,25000000,Пресненский,Ходынская ,2,Улица 1905 года,Пресня Сити
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/304869833/,можайск,sale,flat,44,44,2,86.3,-1,0,38000000,Хорошево-Мневники, Шеногина,,Шелепиха,Sydney City
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/298038407/,можайск,sale,flat,2,16,1,55.9,-1,0,21462000,Центр, Февральской Революции,21,Динамо,19/05
+Гранд Недвижимость,real_estate_agent,https://sochi.cian.ru/sale/flat/308830155/,можайск,sale,flat,6,10,1,31.7,-1,0,7340000,Хостинский, Мацестинская,17/1,,
+Rielt Group Agency,real_estate_agent,https://spb.cian.ru/sale/flat/303466147/,можайск,sale,flat,1,10,2,57.6,-1,0,8750000,Кировский, Лени Голикова,98К2,Проспект Ветеранов,
+DOGMA,developer,https://krasnodar.cian.ru/sale/flat/305422283/,можайск,sale,flat,3,18,2,56.2,-1,0,6406800,,,,,Парк Победы - 2
+Гранд Недвижимость,real_estate_agent,https://sochi.cian.ru/sale/flat/308829800/,можайск,sale,flat,10,10,2,45.5,-1,0,12250000,Хостинский, Мацестинская,17/1,,
+НЕДВИЖИМОСТЬ 23,real_estate_agent,https://sochi.cian.ru/sale/flat/247945326/,можайск,sale,flat,23,26,1,37.0,-1,0,10000000,Центральный,Пластунская ,123Ак2,,Раз Два Три
+НВМ,developer,https://krasnodar.cian.ru/sale/flat/307996515/,можайск,sale,flat,7,18,1,34.21,-1,0,6670950,,,,,Народные Кварталы
+ID 88675389,unknown,https://www.cian.ru/sale/flat/299351553/,можайск,sale,flat,2,6,2,70.0,-1,0,31600000,Москворечье-Сабурово,переулок 1-й Котляковский,2Ак3,Варшавская,LIFE Варшавская
+НЕДВИЖИМОСТЬ 23,real_estate_agent,https://sochi.cian.ru/sale/flat/299938801/,можайск,sale,flat,13,19,2,49.0,-1,0,9500000,Хостинский, Ясногорская,,,Кислород
+Садовое кольцо,developer,https://kazan.cian.ru/sale/flat/308626955/,можайск,sale,flat,10,24,1,45.8,-1,0,15809922,Ново-Савиновский,,,Козья слобода,Савин Фемили ЖК
+Никита Гаврилов,realtor,https://www.cian.ru/sale/flat/308929771/,можайск,sale,flat,5,17,2,60.0,-1,0,18550000,Марьино,Новочеркасский бульвар,47,Марьино,
+Недвижимость у моря,real_estate_agent,https://sochi.cian.ru/sale/flat/308792977/,можайск,sale,flat,17,20,2,65.0,-1,0,16800000,Адлерский, Кирова,30,,
+ИНСИТИ девелопмент,developer,https://krasnodar.cian.ru/sale/flat/306996008/,можайск,sale,flat,17,24,1,37.58,-1,0,6159458,,,,,Микрорайон Любимово
+Недвижимость у моря,real_estate_agent,https://sochi.cian.ru/sale/flat/308179318/,можайск,sale,flat,10,12,2,65.0,-1,0,17200000,Хостинский, Возрождения,22,,
+НЕДВИЖИМОСТЬ 23,real_estate_agent,https://sochi.cian.ru/sale/flat/279487025/,можайск,sale,flat,18,20,2,52.0,-1,0,10000000,Хостинский, Аллея Челтенхэма,18,,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/298221123/,можайск,sale,flat,25,25,1,37.2,-1,0,7861500,Чкаловский, 8 Марта,204Д,Чкаловская,Ботаника LIFE
+ID 44567902,homeowner,https://sochi.cian.ru/sale/flat/308699113/,можайск,sale,flat,4,8,2,49.73,-1,0,22050000,Хостинский, Володарского,6,,Marine Garden Sochi
+Альберт Аванесян,realtor,https://www.cian.ru/sale/flat/307156518/,можайск,sale,flat,5,13,2,59.8,-1,0,16350000,Марьино,Новомарьинская ,4,Марьино,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/299168872/,можайск,sale,flat,2,9,2,73.9,-1,0,25839000,Центр, Михаила Ананьева,,Динамо,Клубный дом инженера Ятеса
+Est-a-Tet Агент,real_estate_agent,https://www.cian.ru/sale/flat/308886354/,можайск,sale,flat,25,28,2,57.9,-1,0,33200000,Раменки,Винницкая ,8к4,Раменки,Настоящее
+ID 13044325,unknown,https://www.cian.ru/sale/flat/308859379/,можайск,sale,flat,22,32,1,37.35,-1,0,17780000,Нижегородский,Газгольдерная ,10,Нижегородская,Profit
+Средастрой Новороссийск,developer,https://novorossiysk.cian.ru/sale/flat/307130577/,можайск,sale,flat,2,17,2,58.66,-1,0,13198500,,,,,Золотой берег 2
+BRAUMOST,real_estate_agent,https://www.cian.ru/sale/flat/293943948/,можайск,sale,flat,5,10,1,48.5,-1,0,23500000,Покровское-Стрешнево,Вивальди кв-л,,Спартак,Клубный Город на Реке Примавера ЖК
+НЕДВИЖИМОСТЬ 23,real_estate_agent,https://sochi.cian.ru/sale/flat/304113286/,можайск,sale,flat,8,10,1,28.0,-1,0,10350000,Адлерский, Ленина,280А,,
+Неометрия,developer,https://krasnodar.cian.ru/sale/flat/308339502/,можайск,sale,flat,21,22,1,34.4,-1,0,5105550,Прикубанский, Конгрессная,43,,Отражение
+Никита Гаврилов,realtor,https://www.cian.ru/sale/flat/308711044/,можайск,sale,flat,8,22,1,40.0,-1,0,13290000,Марьино, Верхние Поля,36К2,Люблино,
+Kalinka Group,real_estate_agent,https://odintsovo.cian.ru/sale/flat/291589677/,можайск,sale,flat,3,6,2,236.0,-1,0,130000000,,,,,Жуковка Шале
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/303395042/,можайск,sale,flat,2,25,1,30.4,-1,0,6288000,Орджоникидзевский,,,Машиностроителей,Основинские кварталы ЖК
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/307826522/,можайск,sale,flat,3,9,2,148.5,-1,0,189000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+Винсент Недвижимость Центральный Офис номер 1,real_estate_agent,https://sochi.cian.ru/sale/flat/295204012/,можайск,sale,flat,3,11,2,53.0,-1,0,22300000,Хостинский, Яна Фабрициуса,2/17,,Фестивальный
+ПАРК АВЕНЮ,developer,https://krasnodar.cian.ru/sale/flat/307199095/,можайск,sale,flat,3,6,2,45.4,-1,0,5902000,Горячий Ключ, Ярославского,100В,,Ярославский
+Century 21 Street Realty,real_estate_agent,https://www.cian.ru/sale/flat/297469215/,можайск,sale,flat,8,9,2,64.2,-1,0,77000000,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+SPB Housing,real_estate_agent,https://spb.cian.ru/sale/flat/304205144/,можайск,sale,flat,8,13,2,57.9,-1,0,16212000,Василеостровский,набережная Реки Смоленки,35к1,Приморская,Айно
+ЭНКО,developer,https://tyumen.cian.ru/sale/flat/297298593/,можайск,sale,flat,2,17,2,52.68,-1,0,6460000,д. Патрушева, Петра Ершова,12,,ЖР 
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/302630222/,можайск,sale,flat,25,45,1,64.0,-1,0,40999999,Дорогомилово,Кутузовский проезд,16А/1,Шелепиха,River Park Кутузовский
+CENTURY 21 Столичная недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/307430903/,можайск,sale,flat,4,15,1,53.36,-1,0,13950000,, Татьянин Парк,16к1,Говорово,
+Эталон,developer,https://ekb.cian.ru/sale/flat/308414252/,можайск,sale,flat,11,16,2,47.1,-1,0,6579206,Чкаловский,,,Ботаническая,Жилой район Солнечный
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/303137027/,можайск,sale,flat,2,5,2,106.0,-1,0,155000000,Тверской,Никольская ,10,Площадь Революции,St. Nickolas
+Барокко,real_estate_agent,https://spb.cian.ru/sale/flat/307310259/,можайск,sale,flat,11,15,1,36.3,-1,0,8200000,Приморский,Комендантский проспект,23к1,Комендантский проспект,
+DOGMA,developer,https://krasnodar.cian.ru/sale/flat/305421053/,можайск,sale,flat,2,18,1,38.3,-1,0,5162840,,,,,Парк Победы - 2
+ESSE REAL ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/308363866/,можайск,sale,flat,3,9,2,37.0,-1,0,13199000,Бабушкинский,Староватутинский проезд,3,Бабушкинская,
+Андрей Вдовин,realtor,https://www.cian.ru/sale/flat/278701200/,можайск,sale,flat,2,15,1,31.9,-1,0,11758286,Хорошевский,Ходынский бульвар,2,ЦСКА,Лайнер
+R1 Development,developer,https://ekb.cian.ru/sale/flat/303900194/,можайск,sale,flat,2,8,2,63.63,-1,0,10923108,Орджоникидзевский, Уральских Рабочих,26,Проспект Космонавтов,Банников Дом
+hoomie,real_estate_agent,https://www.cian.ru/sale/flat/305679592/,можайск,sale,flat,7,20,1,43.09,-1,0,20252300,Даниловский,Автозаводская ,26,Тульская,FORST
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/306378692/,можайск,sale,flat,10,24,2,43.0,-1,0,21000000,Готовая кв-ра в Даниловском е2-комн. квартира,43 м²,,,
+Первостроитель,developer,https://ekb.cian.ru/sale/flat/297995554/,можайск,sale,flat,14,25,2,70.6,-1,0,11733000,Кировский, Комсомольская,67,Геологическая,Жилой квартал Комсомольская 67
+ID 112591621,homeowner,https://www.cian.ru/sale/flat/308498116/,можайск,sale,flat,13,47,2,51.0,-1,0,32950000,Дорогомилово,Кутузовский проезд,16А/1,Фили,River Park Кутузовский
+Главстрой,developer,https://www.cian.ru/sale/flat/306076580/,можайск,sale,flat,4,22,2,67.1,-1,0,28625560,Филевский парк,Береговой проезд,2,Фили,Береговой-2
+Ак Барс Дом,developer,https://kazan.cian.ru/sale/flat/300752652/,можайск,sale,flat,16,19,2,50.3,-1,0,9235080,Советский,,3,Горки,Светлая Долина ЖК
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/303761033/,можайск,sale,flat,31,65,2,51.1,-1,0,50000000,Пресненский,Краснопресненская набережная,14Ак2,Москва-Сити,Capital Towers
+HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/300199357/,можайск,sale,flat,14,58,2,60.2,-1,0,21000000,Ростокино,проспект Мира,188Бк1,Ростокино,Триколор
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/298221157/,можайск,sale,flat,3,9,1,55.0,-1,0,18788500,Центр, Михаила Ананьева,,Динамо,Клубный дом инженера Ятеса
+Павел Михайлов,realtor,https://www.cian.ru/sale/flat/308082096/,можайск,sale,flat,12,16,1,44.0,-1,0,26296000,Раменки,проспект Генерала Дорохова,39к2Л,Минская,Собрание клубных домов West Garden
+Мой мир,real_estate_agent,https://omsk.cian.ru/sale/flat/308259528/,можайск,sale,flat,8,10,1,39.5,-1,0,5300000,мкр. Континентальный,бульвар Архитекторов,4,,
+Средастрой Новороссийск,developer,https://novorossiysk.cian.ru/sale/flat/307130635/,можайск,sale,flat,6,17,1,42.93,-1,0,8800650,,,,,Золотой берег 2
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Villagio Realty,real_estate_agent,https://www.cian.ru/sale/flat/308759283/,можайск,sale,flat,8,11,2,73.4,-1,0,70000000,Тверской,Лесная ,4с1,Белорусская,
+РИСАН,developer,https://penza.cian.ru/sale/flat/291733470/,можайск,sale,flat,2,16,2,56.9,-1,0,5462400,Октябрьский,,,,Лэйк Таун ЖК
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/304437850/,можайск,sale,flat,5,8,2,44.6,-1,0,7763000,Верх-Исетский,,,Площадь 1905 года,Русь-2 ЖК
+Владислав Карпов,realtor,https://www.cian.ru/sale/flat/308833375/,можайск,sale,flat,15,28,1,40.0,-1,0,30500000,Раменки,Винницкая ,8к3,Раменки,Настоящее
+BERI,real_estate_agent,https://www.cian.ru/sale/flat/308009678/,можайск,sale,flat,12,17,2,57.8,-1,0,27927000,Раменки,Мичуринский проспект,21К1,Раменки,
+Таврида Девелопмент,developer,https://krym.cian.ru/sale/flat/299892583/,можайск,sale,flat,2,9,2,49.07,-1,0,21968639,Массандра пгт, Мухина,17А,,Клубный дом Массандра Парк
+BARNES International Realty,real_estate_agent,https://www.cian.ru/sale/flat/307505747/,можайск,sale,flat,10,12,1,55.0,-1,0,32500000,Тверской,2-я Брестская ,6,Маяковская,Резиденция Тверская
+ID 18111054,unknown,https://kotelniki.cian.ru/sale/flat/300511360/,можайск,sale,flat,21,33,2,52.4,-1,0,11550000,, Сосновая,5к1,Котельники,
+Ак Барс Дом,developer,https://kazan.cian.ru/sale/flat/301019681/,можайск,sale,flat,5,22,2,48.02,-1,0,10756480,Советский,ПК1-1,ПК1-1,Горки,Мой Ритм ЖК
+Marry Lane Group,real_estate_agent,https://www.cian.ru/sale/flat/307494611/,можайск,sale,flat,2,44,1,48.1,-1,0,25000000,Пресненский,Ходынская ,2,Улица 1905 года,Пресня Сити
+VESPER,developer,https://www.cian.ru/sale/flat/286258299/,можайск,sale,flat,5,9,2,104.2,-1,0,150958800,Тверской,1-я Тверская-Ямская ,2,Маяковская,Vesper Tverskaya
+ПАРК АВЕНЮ,developer,https://krasnodar.cian.ru/sale/flat/307199106/,можайск,sale,flat,3,6,1,33.4,-1,0,4575800,Горячий Ключ, Ярославского,100В,,Ярославский
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/303582856/,можайск,sale,flat,4,21,2,56.2,-1,0,55076000,Пресненский,2-я Звенигородская ,16,Улица 1905 года,Lucky
+ТСН Владис,real_estate_agent,https://korolev.cian.ru/sale/flat/306789052/,можайск,sale,flat,4,4,2,57.7,-1,0,12100000,,Бурковский проезд,36к5,Ботанический сад,Театральный парк
+ЭНКО,developer,https://tyumen.cian.ru/sale/flat/306667447/,можайск,sale,flat,3,17,1,36.4,-1,0,5470000,д. Патрушева, Лермонтова,8,,ЖР 
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/306373900/,можайск,sale,flat,13,30,1,93.8,-1,0,28999999,Щукино,проезд 4-й Красногорский,,Стрешнево,Moments
+NIKA ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/306945307/,можайск,sale,flat,21,24,1,40.8,-1,0,30000000,Хорошевский,Хорошевское шоссе,25Ак3,Полежаевская,Династия
+AVA,developer,https://krasnodar.cian.ru/sale/flat/307190072/,можайск,sale,flat,4,12,2,55.2,-1,0,8103360,мкр. 9-й километр, Ярославская,115лит7,,Небо
+ZAPAD REALTY - офис Маршала Жукова,real_estate_agent,https://www.cian.ru/sale/flat/305658950/,можайск,sale,flat,2,9,2,74.0,-1,0,30000000,Очаково-Матвеевское,Аминьевское шоссе,4Дк2,Аминьевская,Вестердам
+ТСН Владис,real_estate_agent,https://korolev.cian.ru/sale/flat/305185855/,можайск,sale,flat,3,4,2,50.1,-1,0,9200000,,Бурковский проезд,44к3,Медведково,Театральный парк
+Эталон,developer,https://ekb.cian.ru/sale/flat/308413983/,можайск,sale,flat,3,16,1,35.8,-1,0,5634818,Чкаловский,,,Ботаническая,Жилой район Солнечный
+House Estate,real_estate_agent,https://spb.cian.ru/sale/flat/307668200/,можайск,sale,flat,1,8,2,48.3,-1,0,8650000,Кировский, Лени Голикова,74,Проспект Ветеранов,
+Барокко,real_estate_agent,https://spb.cian.ru/sale/flat/301470605/,можайск,sale,flat,5,13,1,36.62,-1,0,9200000,Василеостровский,бульвар Головнина,4,Приморская,Аквилон ZALIVE
+R1 Development,developer,https://ekb.cian.ru/sale/flat/303900221/,можайск,sale,flat,2,8,1,42.64,-1,0,7763465,Орджоникидзевский, Уральских Рабочих,26,Проспект Космонавтов,Банников Дом
+ID 109135729,realtor,https://www.cian.ru/sale/flat/307434429/,можайск,sale,flat,3,21,2,59.2,-1,0,61000000,Пресненский, Костикова,4к1,Улица 1905 года,Lucky
+Агентство недвижимости Романа Чиковани,real_estate_agent,https://spb.cian.ru/sale/flat/304650198/,можайск,sale,flat,4,12,2,45.0,-1,0,7700000,,проспект Строителей,5к1,Улица Дыбенко,ID Kudrovo
+Ак Барс Дом,developer,https://kazan.cian.ru/sale/flat/307111842/,можайск,sale,flat,4,19,1,31.8,-1,0,8840400,Советский,,3,Горки,Светлая Долина ЖК
+Солнечный Берег,real_estate_agent,https://sochi.cian.ru/sale/flat/301248328/,можайск,sale,flat,9,19,2,130.0,-1,0,75000000,Центральный, Нагорная,11,,
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/304952945/,можайск,sale,flat,11,20,1,44.0,-1,0,22490000,Левобережный,,В3,Беломорская,Акватория ЖК
+AVA,developer,https://krasnodar.cian.ru/sale/flat/302609107/,можайск,sale,flat,3,22,2,69.09,-1,0,14529627,мкр. Аврора, Имени Дзержинского,95,,AVrorA
+NIKA ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/299655879/,можайск,sale,flat,14,24,2,46.0,-1,0,31000000,Очаково-Матвеевское,Нежинская ,5к2,Матвеевская,Городские резиденции SPIRES
+ID 49930636,homeowner,https://krasnogorsk.cian.ru/sale/flat/307820982/,можайск,sale,flat,4,26,2,59.9,-1,0,14700000,,бульвар Ильинский,2А,Пенягино,Павшинская пойма мкрн. 4
+НВМ,representative_developer,https://krasnodar.cian.ru/sale/flat/308001548/,можайск,sale,flat,6,7,2,66.4,-1,0,7968000,,,,,История 2
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/296106356/,можайск,sale,flat,6,7,2,96.0,-1,0,260000000,Хамовники, Льва Толстого,23к1,Парк Культуры,Литератор
+Мой мир,real_estate_agent,https://omsk.cian.ru/sale/flat/305486117/,можайск,sale,flat,10,10,2,54.1,-1,0,5700000,мкр. 11-й, Дмитриева,3/4,,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/304437884/,можайск,sale,flat,18,19,1,30.8,-1,0,5380200,Верх-Исетский,,,Площадь 1905 года,Русь-2 ЖК
+ZAPAD REALTY - офис Маршала Жукова,real_estate_agent,https://www.cian.ru/sale/flat/308064930/,можайск,sale,flat,5,24,2,75.0,-1,0,48000000,Хорошево-Мневники,Шелепихинская набережная,34к3,Шелепиха,Сердце Столицы
+Влас Жерихов,realtor,https://spb.cian.ru/sale/flat/304794142/,можайск,sale,flat,1,26,1,38.3,-1,0,5800000,Невский,проспект Советский,34к3,Рыбацкое,Невские паруса
+Таврида Девелопмент,developer,https://krym.cian.ru/sale/flat/299893563/,можайск,sale,flat,3,9,1,39.02,-1,0,17986269,Массандра пгт, Мухина,17А,,Клубный дом Массандра Парк
+Недвижимость у моря,real_estate_agent,https://sochi.cian.ru/sale/flat/308901482/,можайск,sale,flat,4,5,2,57.0,-1,0,15200000,Адлерский, Ленина,172Б,,
+HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/293704749/,можайск,sale,flat,4,38,2,65.0,-1,0,23000000,Ростокино,проспект Мира,188Бк4,Ростокино,Триколор
+Ак Барс Дом,developer,https://kazan.cian.ru/sale/flat/301019031/,можайск,sale,flat,2,17,1,35.8,-1,0,8771000,Советский,ПК1-2,ПК1-2,Горки,Мой Ритм ЖК
+Недвижимость у моря,real_estate_agent,https://sochi.cian.ru/sale/flat/308931688/,можайск,sale,flat,5,6,1,35.0,-1,0,10100000,Адлерский,переулок Демократический,4,,
+Эльдар Кудинов,realtor,https://www.cian.ru/sale/flat/308944363/,можайск,sale,flat,2,12,1,28.2,-1,0,12800000,Раменки,Мичуринский проспект,38,Раменки,
+Магазин новостроек,representative_developer,https://novorossiysk.cian.ru/sale/flat/306629904/,можайск,sale,flat,2,24,2,48.1,-1,0,9596287,,,,,Барса
+Недвижимость у моря,real_estate_agent,https://sochi.cian.ru/sale/flat/308146438/,можайск,sale,flat,4,4,2,40.0,-1,0,11500000,Адлерский, Медовая,80А,,
+Александра Александрова,realtor,https://korolev.cian.ru/sale/flat/270356553/,можайск,sale,flat,5,12,2,55.0,-1,0,6500000,, Пионерская,4,Медведково,
+Первостроитель,developer,https://ekb.cian.ru/sale/flat/293993893/,можайск,sale,flat,13,27,2,61.78,-1,0,12089000,Кировский, Мира,47/6,Геологическая,Проспект Мира. Компаунд
+Недвижимость у моря,real_estate_agent,https://sochi.cian.ru/sale/flat/308226210/,можайск,sale,flat,4,6,1,37.0,-1,0,14560000,Адлерский,Веселая ,82/1,,Green Sail Park
+Est-a-Tet Агент,real_estate_agent,https://www.cian.ru/sale/flat/308886354/,можайск,sale,flat,25,28,2,57.9,-1,0,33200000,Раменки,Винницкая ,8к4,Раменки,Настоящее
+AVA,developer,https://krasnodar.cian.ru/sale/flat/302603217/,можайск,sale,flat,2,12,1,42.1,-1,0,6727580,мкр. 9-й километр, Ярославская,115к2,,Небо
+Гранд Недвижимость,real_estate_agent,https://sochi.cian.ru/sale/flat/306301930/,можайск,sale,flat,2,3,2,50.0,-1,0,11200000,Лазаревский,Львовская ,70Ак2,,
+СОВКОМБАНК,official_representative,https://lyubertsy.cian.ru/sale/flat/308416128/,можайск,sale,flat,2,17,1,34.0,-1,0,6800000,, Камова,10к1,Некрасовка,
+Северная Компания,developer,https://ryazan.cian.ru/sale/flat/303065634/,можайск,sale,flat,2,16,2,49.4,-1,0,6031500,Московский,,,,Бирюзова Парк ЖК
+Гранд Недвижимость,real_estate_agent,https://sochi.cian.ru/sale/flat/298256595/,можайск,sale,flat,2,4,2,70.0,-1,0,9900000,Лазаревский,Львовская ,70Ак3,,
+OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/308760982/,можайск,sale,flat,5,24,1,39.1,-1,0,19800000,Фили-Давыдково, Герасима Курина,18,Славянский бульвар,
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Альянс,developer,https://rostov.cian.ru/sale/flat/293649137/,можайск,sale,flat,2,7,2,77.88,-1,0,28815600,Кировский,Социалистическая ,118,,Дом-резиденция Собрание
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/304869833/,можайск,sale,flat,44,44,2,86.3,-1,0,38000000,Хорошево-Мневники, Шеногина,,Шелепиха,Sydney City
+Apple Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/296403571/,можайск,sale,flat,4,8,2,64.0,-1,0,39900000,Тверской,Благовещенский переулок,5,Маяковская,
+ФСК,developer,https://kazan.cian.ru/sale/flat/308706320/,можайск,sale,flat,3,7,2,42.1,-1,0,5805716,,,,,ФоРест
+Гранд Недвижимость,real_estate_agent,https://sochi.cian.ru/sale/flat/308830155/,можайск,sale,flat,6,10,1,31.7,-1,0,7340000,Хостинский, Мацестинская,17/1,,
+ID 12468212,homeowner,https://www.cian.ru/sale/flat/308182993/,можайск,sale,flat,2,17,2,63.0,-1,0,19150000,, Радужная,8,Рассказовка,
+Ак Барс Дом,developer,https://kazan.cian.ru/sale/flat/295341650/,можайск,sale,flat,2,4,2,54.97,-1,0,7915680,,,,,Новый свет
+Rielt Group Agency,real_estate_agent,https://spb.cian.ru/sale/flat/303466147/,можайск,sale,flat,1,10,2,57.6,-1,0,8750000,Кировский, Лени Голикова,98К2,Проспект Ветеранов,
+ID 6975046,realtor,https://spb.cian.ru/sale/flat/308141587/,можайск,sale,flat,10,12,1,41.5,-1,0,4590000,, Шоссе в Лаврики,78к1,Девяткино,
+ПИК,developer,https://vladivostok.cian.ru/sale/flat/308030533/,можайск,sale,flat,2,24,2,49.1,-1,0,8096590,Первореченский,,2,,Снежный парк ЖК
+Гранд Недвижимость,real_estate_agent,https://sochi.cian.ru/sale/flat/308829800/,можайск,sale,flat,10,10,2,45.5,-1,0,12250000,Хостинский, Мацестинская,17/1,,
+Садовое кольцо,developer,https://ufa.cian.ru/sale/flat/302077155/,можайск,sale,flat,7,30,2,59.88,-1,0,10036607,Октябрьский,,,,Урман Сити ЖК
+Магазин новостроек,representative_developer,https://krasnodar.cian.ru/sale/flat/302688649/,можайск,sale,flat,3,4,2,47.5,-1,0,4940000,,,,,ДзенПарк
+НЕДВИЖИМОСТЬ 23,real_estate_agent,https://sochi.cian.ru/sale/flat/247945326/,можайск,sale,flat,23,26,1,37.0,-1,0,10000000,Центральный,Пластунская ,123Ак2,,Раз Два Три
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/304027788/,можайск,sale,flat,4,5,2,41.0,-1,0,18950000,Мещанский,Трифоновская ,55,Рижская,
+AVA,developer,https://krasnodar.cian.ru/sale/flat/302610178/,можайск,sale,flat,15,16,2,51.7,-1,0,6240190,Зеленодар ЖК, Садовое Кольцо,9,,Зеленодар
+ID 88675389,unknown,https://www.cian.ru/sale/flat/299351553/,можайск,sale,flat,2,6,2,70.0,-1,0,31600000,Москворечье-Сабурово,переулок 1-й Котляковский,2Ак3,Варшавская,LIFE Варшавская
+ID 27200535,homeowner,https://solnechnogorsk.cian.ru/sale/flat/308523231/,можайск,sale,flat,2,5,2,50.0,-1,0,6600000,,,,,
+AVA,developer,https://krasnodar.cian.ru/sale/flat/302609050/,можайск,sale,flat,2,22,1,49.7,-1,0,9825690,мкр. Аврора, Имени Дзержинского,95,,AVrorA
+Никита Гаврилов,realtor,https://www.cian.ru/sale/flat/308929771/,можайск,sale,flat,5,17,2,60.0,-1,0,18550000,Марьино,Новочеркасский бульвар,47,Марьино,
+ID 108109847,homeowner,https://www.cian.ru/sale/flat/308933767/,можайск,sale,flat,7,8,2,51.9,-1,0,10100000,, Уточкина,8к2,Силикатная,
+AVA,developer,https://krasnodar.cian.ru/sale/flat/307879803/,можайск,sale,flat,9,21,2,60.35,-1,0,7543750,мкр. ХБК,Уральская ,100/8,,Режиссёр
+Недвижимость у моря,real_estate_agent,https://sochi.cian.ru/sale/flat/308179318/,можайск,sale,flat,10,12,2,65.0,-1,0,17200000,Хостинский, Возрождения,22,,
+PROНЕДВИЖИМОСТЬ,real_estate_agent,https://vidnoye.cian.ru/sale/flat/302233308/,можайск,sale,flat,4,14,2,53.0,-1,0,11450000,пос. Развилка,проезд Римский,5,,Римский
+Железно,developer,https://ekb.cian.ru/sale/flat/304249899/,можайск,sale,flat,3,6,2,42.0,-1,0,6101739,,,,Чкаловская,Лес ЖК
+Недвижимость у моря,real_estate_agent,https://sochi.cian.ru/sale/flat/308792977/,можайск,sale,flat,17,20,2,65.0,-1,0,16800000,Адлерский, Кирова,30,,
+VESPER,developer,https://www.cian.ru/sale/flat/308762624/,можайск,sale,flat,5,21,2,110.6,-1,0,108976392,Пресненский, Костикова,4к1,Улица 1905 года,Lucky
+Ак Барс Дом,developer,https://kazan.cian.ru/sale/flat/306063177/,можайск,sale,flat,5,9,2,83.43,-1,0,29041983,Советский,,,Суконная слобода,Мифы ЖК
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+НЕДВИЖИМОСТЬ 23,real_estate_agent,https://sochi.cian.ru/sale/flat/299938801/,можайск,sale,flat,13,19,2,49.0,-1,0,9500000,Хостинский, Ясногорская,,,Кислород
+Этажи Москва,real_estate_agent,https://korolev.cian.ru/sale/flat/308942490/,можайск,sale,flat,1,5,2,40.6,-1,0,5500000,,Октябрьская ,6,Ботанический сад,
+НВМ,representative_developer,https://krasnodar.cian.ru/sale/flat/308001539/,можайск,sale,flat,5,7,1,42.7,-1,0,5978000,,,,,История 2
+НЕДВИЖИМОСТЬ 23,real_estate_agent,https://sochi.cian.ru/sale/flat/279487025/,можайск,sale,flat,18,20,2,52.0,-1,0,10000000,Хостинский, Аллея Челтенхэма,18,,
+ID 118582271,homeowner,https://balashikha.cian.ru/sale/flat/308939146/,можайск,sale,flat,10,17,2,52.2,-1,0,9890000,, Свердлова,50,Щёлковская,
+Магазин новостроек,representative_developer,https://novorossiysk.cian.ru/sale/flat/306630449/,можайск,sale,flat,2,24,1,24.6,-1,0,7047039,,,,,Барса
+ID 44567902,homeowner,https://sochi.cian.ru/sale/flat/308699113/,можайск,sale,flat,4,8,2,49.73,-1,0,22050000,Хостинский, Володарского,6,,Marine Garden Sochi
+BERI,real_estate_agent,https://www.cian.ru/sale/flat/308953364/,можайск,sale,flat,6,21,1,36.0,-1,0,15500000,Ховрино,Левобережная ,4к9,Ховрино,
+Северная Компания,developer,https://ryazan.cian.ru/sale/flat/307427731/,можайск,sale,flat,1,4,2,146.56,-1,0,45908280,Советский,,,,Дом на Вознесенской ЖК
+ID 13044325,unknown,https://www.cian.ru/sale/flat/308859379/,можайск,sale,flat,22,32,1,37.35,-1,0,17780000,Нижегородский,Газгольдерная ,10,Нижегородская,Profit
+Kalinka Group,real_estate_agent,https://odintsovo.cian.ru/sale/flat/291589677/,можайск,sale,flat,3,6,2,236.0,-1,0,130000000,,,,,Жуковка Шале
+Магазин новостроек,representative_developer,https://novorossiysk.cian.ru/sale/flat/305286192/,можайск,sale,flat,23,24,2,59.9,-1,0,8206300,Цемдолина тер., Ф.Я. Бурсака,82,,Мята
+BRAUMOST,real_estate_agent,https://www.cian.ru/sale/flat/293943948/,можайск,sale,flat,5,10,1,48.5,-1,0,23500000,Покровское-Стрешнево,Вивальди кв-л,,Спартак,Клубный Город на Реке Примавера ЖК
+PROНЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/sale/flat/308898816/,можайск,sale,flat,2,20,2,60.0,-1,0,21990000,Алтуфьевский,Бибиревская ,4А,Бибирево,Барбарис
+Первостроитель,developer,https://ekb.cian.ru/sale/flat/297114709/,можайск,sale,flat,2,24,1,31.3,-1,0,7936000,Кировский, Мира,47/7,Геологическая,Проспект Мира. Компаунд
+НЕДВИЖИМОСТЬ 23,real_estate_agent,https://sochi.cian.ru/sale/flat/304113286/,можайск,sale,flat,8,10,1,28.0,-1,0,10350000,Адлерский, Ленина,280А,,
+Свой Мир,real_estate_agent,https://spb.cian.ru/sale/flat/300418797/,можайск,sale,flat,4,4,1,31.3,-1,0,4100000,,,,,Щегловская усадьба
+Неометрия,developer,https://sochi.cian.ru/sale/flat/308285408/,можайск,sale,flat,2,17,2,44.2,-1,0,18011500,Адлерский,,,,Лестория
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/306079971/,можайск,sale,flat,15,20,2,79.4,-1,0,29870000,Нагатино-Садовники,Варшавское шоссе,37АК1,Нагатинская,Rotterdam
+PANDA ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/303149151/,можайск,sale,flat,9,10,2,90.0,-1,0,79990000,Хамовники,Ружейный переулок,3,Смоленская,Смоленская Застава
+Светлый,developer,https://krym.cian.ru/sale/flat/308441444/,можайск,sale,flat,3,3,1,40.9,-1,0,7362000,Саки, Заводская,62,,Новый берег
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/301042658/,можайск,sale,flat,24,79,1,72.0,-1,0,70000000,Пресненский,1-й Красногвардейский проезд,22с1,Москва-Сити,NEVA TOWERS
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/307295985/,можайск,sale,flat,3,24,1,42.6,-1,0,21500000,Даниловский,Автозаводская ,23Бк2,ЗИЛ,Парк Легенд
+Ак Барс Дом,developer,https://kazan.cian.ru/sale/flat/306188777/,можайск,sale,flat,2,5,2,61.01,-1,0,20053987,Вахитовский,,,Кремлёвская,Дом на Исхаки ЖК
+НЕДВИЖИМОСТЬ 23,real_estate_agent,https://sochi.cian.ru/sale/flat/301916019/,можайск,sale,flat,3,5,1,40.6,-1,0,23900000,Центральный, Крымская,,,Livingston
+Этажи Москва,real_estate_agent,https://balashikha.cian.ru/sale/flat/307869945/,можайск,sale,flat,19,25,1,36.3,-1,0,5300000,, Яганова,9,Щёлковская,Пехра
+Северная Компания,developer,https://ryazan.cian.ru/sale/flat/303065626/,можайск,sale,flat,2,16,1,26.7,-1,0,3650200,Московский,,,,Бирюзова Парк ЖК
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/308239254/,можайск,sale,flat,12,19,2,84.0,-1,0,59000000,Хорошево-Мневники,Шелепихинская набережная,34к2,Шелепиха,Сердце Столицы
