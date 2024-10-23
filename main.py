@@ -18,13 +18,13 @@ def save_to_csv(flats_data, filename="flats_data.csv", mode='a'):
 def fetch_data_with_retries(parser, page, retries=3):
     for attempt in range(retries):
         try:
-            data = parser.get_flats(deal_type="sale", rooms=(1, 2), additional_settings={"start_page": page, "end_page": page})
+            data = parser.get_flats(deal_type="sale", rooms=(3), additional_settings={"start_page": page, "end_page": page})
             return data
         except Exception as e:
             print(f"Ошибка при запросе страницы {page}: {e}. Попытка {attempt + 1} из {retries}")
             time.sleep(random.uniform(8, 16))
     return []
-moscow_parser = cianparser.CianParser(location="можайск")
+moscow_parser = cianparser.CianParser(location="Долгопрудный")
 all_flats = []
 total_flats = 0
 max_flats = 1000000 
